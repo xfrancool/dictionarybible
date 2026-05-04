@@ -1,0 +1,12 @@
+node_modules
+.env
+.vercel
+.env*.local
+.git
+
+
+# Ignorar cualquier archivo .zip
+*.zip
+
+# Ignorar la carpeta "0 - Nota"
+0 - Nota/
