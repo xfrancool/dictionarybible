@@ -1,169 +1,129 @@
-import fs from 'fs';
-import path from 'path';
+import fs from "fs";
+import path from "path";
 
+function normalize(text) {
+  return text
+    ?.toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/* cache simple */
 const cache = {};
 
-function normalize(text = '') {
-	return text
-		.toString()
-		.toLowerCase()
-		.normalize('NFD')
-		.replace(/[\u0300-\u036f]/g, '')
-		.replace(/\s+/g, ' ')
-		.trim();
-}
-
 function loadFile(letter) {
-	if (cache[letter]) {
-		return cache[letter];
-	}
+  if (cache[letter]) return cache[letter];
 
-	const filePath = path.join(process.cwd(), 'data', `${letter}.json`);
+  const filePath = path.join(process.cwd(), "data", `${letter}.json`);
 
-	if (!fs.existsSync(filePath)) {
-		return null;
-	}
+  if (!fs.existsSync(filePath)) return null;
 
-	const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  const file = fs.readFileSync(filePath, "utf-8");
+  const data = JSON.parse(file);
 
-	cache[letter] = data;
+  cache[letter] = data;
 
-	return data;
+  return data;
 }
 
+/* 👉 cargar todo */
 function loadAllData() {
-	const letters = [
-		'a',
-		'b',
-		'c',
-		'd',
-		'e',
-		'f',
-		'g',
-		'h',
-		'i',
-		'j',
-		'k',
-		'l',
-		'm',
-		'n',
-		'o',
-		'p',
-		'q',
-		'r',
-		's',
-		't',
-		'u',
-		'v',
-		'w',
-		'x',
-		'y',
-		'z'
-	];
+  const letters = "abcdefghijklmnopqrstuvwxyz".split("");
+  const result = {};
 
-	const result = {};
+  for (const letter of letters) {
+    const data = loadFile(letter);
+    if (data) {
+      result[letter] = data;
+    }
+  }
 
-	for (const letter of letters) {
-		const data = loadFile(letter);
-
-		if (data) {
-			result[letter] = data;
-		}
-	}
-
-	return result;
+  return result;
 }
 
+/* 👉 búsqueda global */
 function searchAll(query) {
-	const allData = loadAllData();
-	const results = [];
+  const allData = loadAllData();
+  const results = [];
 
-	for (const letterData of Object.values(allData)) {
-		const words = letterData.data || {};
+  for (const letter in allData) {
+    const words = allData[letter];
 
-		for (const [key, value] of Object.entries(words)) {
-			const word = value.word || key;
+    for (const key in words) {
+      if (normalize(key).includes(query)) {
+        results.push({
+          word: key,
+          ...words[key],
+        });
+      }
+    }
+  }
 
-			if (normalize(key).includes(query) || normalize(word).includes(query)) {
-				results.push({
-					word,
-					definitions: value.definitions || []
-				});
-			}
-		}
-	}
-
-	return results;
+  return results;
 }
 
 export default function handler(req, res) {
-	try {
-		const { word, letter, search } = req.query;
+  const { word, letter, search } = req.query;
 
-		// BUSQUEDA
-		if (search) {
-			const results = searchAll(normalize(search));
+  try {
+    /* 🔎 SEARCH GLOBAL */
+    if (search) {
+      const query = normalize(search);
+      const results = searchAll(query);
 
-			return res.status(200).json({
-				total: results.length,
-				results
-			});
-		}
+      return res.status(200).json({
+        total: results.length,
+        results,
+      });
+    }
 
-		// DICCIONARIO COMPLETO
-		if (!word && !letter) {
-			const allData = loadAllData();
+    /* 👉 TODO EL DICCIONARIO */
+    if (!word && !letter) {
+      const allData = loadAllData();
 
-			return res.status(200).json({
-				totalLetters: 26,
-				data: allData
-			});
-		}
+      return res.status(200).json({
+        totalLetters: Object.keys(allData).length,
+        data: allData,
+      });
+    }
 
-		// LETRA
-		if (letter) {
-			const data = loadFile(normalize(letter));
+    /* LETRA */
+    if (letter) {
+      const key = normalize(letter);
+      const data = loadFile(key);
 
-			if (!data) {
-				return res.status(404).json({
-					error: 'Letra no encontrada'
-				});
-			}
+      if (!data) {
+        return res.status(404).json({ error: "Letra no encontrada" });
+      }
 
-			return res.status(200).json(data.data || {});
-		}
+      return res.status(200).json(data);
+    }
 
-		// PALABRA
-		if (word) {
-			const target = normalize(word);
-			const allData = loadAllData();
+    /* PALABRA */
+    if (word) {
+      const key = normalize(word);
+      const firstLetter = key[0];
 
-			for (const letterData of Object.values(allData)) {
-				const words = letterData.data || {};
+      const data = loadFile(firstLetter);
 
-				for (const [key, value] of Object.entries(words)) {
-					if (
-						normalize(key) === target ||
-						normalize(value.word || '') === target
-					) {
-						return res.status(200).json(value);
-					}
-				}
-			}
+      if (!data) {
+        return res.status(404).json({ error: "Letra no encontrada" });
+      }
 
-			return res.status(404).json({
-				error: 'Palabra no encontrada'
-			});
-		}
+      const cleanKey = Object.keys(data).find((k) => normalize(k) === key);
 
-		return res.status(400).json({
-			error: 'Solicitud inválida'
-		});
-	} catch (error) {
-		console.error(error);
+      if (!cleanKey) {
+        return res.status(404).json({
+          error: "Palabra no encontrada",
+        });
+      }
 
-		return res.status(500).json({
-			error: 'Error interno del servidor'
-		});
-	}
+      return res.status(200).json(data[cleanKey]);
+    }
+  } catch (err) {
+    console.error(err);
+    return res.status(500).json({ error: "Error interno" });
+  }
 }
