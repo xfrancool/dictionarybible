@@ -1,287 +1,817 @@
 {
   "letter": "z",
-  "totalWords": 47,
+  "totalWords": 135,
   "data": {
     "ZAANAIM": {
       "word": "ZAANAIM",
       "definitions": [
-        "Valle donde Heber plantó sus tiendas (Jue 4.11). Sísara, huyendo de Barac, se refugió en la tienda de Heber y aquí encontró la muerte. Este valle se hallaba cerca de Tabor o Cedes, tal vez en la frontera sur de Neftalí."
+        "Valle donde Heber plantó sus tiendas (Jue 4.11). Sísara, huyendo de Barac, se refugió en la tienda de Heber y aquí encontró la muerte. Este valle se hallaba cerca de Tabor o Cedes, tal vez en la frontera sur de Neftalí.",
+        "Variante ortográfica de Alón-saananim en la RVR1960, la RVR1995 y LBLA (Jue 4:11) que respeta el texto hebreo escrito en lugar de la nota del copista y Jos 19:33."
       ]
     },
     "ZABULÓN": {
       "word": "ZABULÓN",
       "definitions": [
-        "Patriarca israelita hijo de JACOB y LEA (Gn 30.20). Nació en Mesopotamia (Gn 31.17, 18). Su nombre casi siempre aparece junto al de Isacar su hermano (Gn 25.23; 46.13; Éx 1.3; etc.)."
+        "Patriarca israelita hijo de JACOB y LEA (Gn 30.20). Nació en Mesopotamia (Gn 31.17, 18). Su nombre casi siempre aparece junto al de Isacar su hermano (Gn 25.23; 46.13; Éx 1.3; etc.).",
+        "Nombre de persona y de tribu que probablemente signifique “morada elevada”. Décimo hijo de Jacob y sexto hijo de Lea (Gén 30:20). La tribu que lleva su nombre se asentó en el área entre el Mar de Galilea y el Monte Carmelo (Jos 19:10-16). La tribu recibió a las otras tribus con festivales religiosos en el Monte Tabor (Deu 33:18-19). Su menú incluyó manjares obtenidos del Mar de Galilea. En el aspecto militar, la tribu se diferenciaba del resto en las batallas por adquirir nuevas tierras, luchando tenazmente en los ejércitos de Débora y Barac, y Gedeón (Jue 4:6; Jue 6:35). Ver Israel, Tierra de; Palestina; Tribus de Israel."
+      ]
+    },
+    "ZAAVÁN": {
+      "word": "ZAAVÁN",
+      "definitions": [
+        "Nombre de persona que significa “temblar o estremecerse”. Hijo de Ezer (Gén 36:27)."
+      ]
+    },
+    "ZABAD": {
+      "word": "ZABAD",
+      "definitions": [
+        "Nombre geográfico que significa “Él ha dado” o “dádiva”.\n\n 1. Miembro de la tribu de Judá (1Cr 2:36-37).\n\n 2. Efraimita (1Cr 7:21).\n\n 3. Uno de los 30 “valientes” del rey David (1Cr 11:41); el primero de los 21 nombres que el cronista anexó a la lista paralela de 2Sa 23:24-39.\n\n 4. Asesino del rey Joás (2Cr 24:26), llamado Josacar en 2Re 12:21.\n\n 5. Tres laicos postexílicos a quienes se les ordenó divorciarse de sus esposas extranjeras (Esd 10:27; Esd 10:33; Esd 10:43)."
+      ]
+    },
+    "ZABAI": {
+      "word": "ZABAI",
+      "definitions": [
+        "Nombre de persona abreviado que quizás signifique “puro”.\n\n 1. Hijo de Bebai que prometió a Esdras que despediría a su mujer extranjera (Esd 10:28).\n\n 2. Padre de Baruc que trabajó en el muro de Jerusalén con Nehemías (Neh 3:20). Algunos dicen que 1. y 2. pueden ser la misma persona. En una antigua nota de copista (qere) en Nehemías aparece como Zacai."
+      ]
+    },
+    "ZABAY": {
+      "word": "ZABAY",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Zabai."
+      ]
+    },
+    "ZABDI": {
+      "word": "ZABDI",
+      "definitions": [
+        "Nombre de persona que significa “mi dádiva” o forma abreviada de “Jah da”.\n\n 1. Hijo de Zera de la tribu de Judá (Jos 7:1).\n\n 2. Hombre de la tribu de Benjamín (1Cr 8:19).\n\n 3. Hombre a cargo de las bodegas de David (1Cr 27:27).\n\n 4. Hijo de Asaf, quien guiaba la acción de gracias y la oración (Neh 11:17)."
+      ]
+    },
+    "ZABDIEL": {
+      "word": "ZABDIEL",
+      "definitions": [
+        "Nombre de persona que significa “Dios da dádivas” o “Mi dádiva es Dios”.\n\n 1. Descendiente de David (1Cr 27:2).\n\n 2. Supervisor en Jerusalén durante la época de Nehemías (Neh 11:14)."
+      ]
+    },
+    "ZABUD": {
+      "word": "ZABUD",
+      "definitions": [
+        "Nombre de persona que significa “dádiva” y “dotado”.\n\n1. Hijo de Natán, sacerdote y amigo de Salomón (1Re 4:5).\n\n 2. Descendiente de Bigvai que regresó a Jerusalén con Esdras después del exilio (Esd 8:14) según el texto hebreo escrito. Una nota de copista (qere) dice Zacur."
+      ]
+    },
+    "ZACAI": {
+      "word": "ZACAI",
+      "definitions": [
+        "Nombre de persona que significa “puro” o “inocente”. Antepasado de algunos que volvieron a Jerusalén con Zorobabel después del cautiverio (Esd 2:9; Neh 7:14)."
+      ]
+    },
+    "ZACARÍAS": {
+      "word": "ZACARÍAS",
+      "definitions": [
+        "Nombre de persona que significa “Jah (en forma completa, Yahvéh) recordó”.\n\n 1. Hijo de Jeroboam II, quien reinó en Israel durante 6 meses en el año 746 a.C. hasta que fue asesinado por Salum (2Re 15:8-12). Ver Israel.\n\n 2. Profeta que prosperó inmediatamente después del exilio en 520–518 a.C. e instó al pueblo de Judá a reconstruir el templo.\n\n 3. Abuelo de Ezequías (2Re 18:2).\n\n 4. Sacerdote y profeta a quien el pueblo apedreó y el rey Joás mató (2Cr 24:20-22).\n\n 5. Portero del templo postexílico (1Cr 9:21).\n\n 6. Miembro de una familia que vivía en Gabaón (1Cr 9:37).\n\n 7. Músico del templo (1Cr 15:20).\n\n 8. Líder comunitario a quien el rey Josafat envió a enseñar en las ciudades de Judá (2Cr 17:7).\n\n 9. Uno de los supervisores que tenía Josías en la reparación del templo (2Cr 34:12).\n\n 10. y\n\n 11. Hombres que acompañaron a Esdras en su regreso desde Babilonia (Esd 8:3; Esd 8:11).\n\n 12. Hombre que Esdras envió para que los levitas regresaran de Babilonia (Esd 8:16).\n\n 13. Israelita con esposa extranjera (Esd 10:26).\n\n 14. Hombre que ayudó a Esdras a enseñar la ley (Neh 8:4), quizás la misma persona que 12. o alguno de los anteriores.\n\n 15. Antepasado de un residente posexílico de Jerusalén (Neh 11:4).\n\n 16. Antepasado de un residente posexílico de Jerusalén (Neh 11:5).\n\n 17. Antepasado de un sacerdote en tiempos de Nehemías (Neh 11:12).\n\n 18. Importante sacerdote cuando Joiacim era sumo sacerdote, posiblemente el profeta (Neh 12:16).\n\n 19. y\n\n 20. Músicos sacerdotales que ayudaron a Nehemías en la celebración (Neh 12:35; Neh 12:41).\n\n 21. Alto funcionario que Isaías utilizó como testigo, quizás el mismo que 3. arriba.\n\n 22. Hijo del rey Josafat a quien su hermano Joram asesinó después de convertirse en rey (2Cr 21:2-4).\n\n 23. Consejero devoto del rey Uzías (2Cr 26:5).\n\n 24. Descendiente de la tribu de Rubén (1Cr 5:7).\n\n 25. Padre de un líder de la mitad oriental de la tribu de Manasés (1Cr 27:21).\n\n 26. a\n\n 34. Levitas (1Cr 15:18; 1Cr 15:24; 1Cr 24:25; 1Cr 26:2; 1Cr 26:14; 1Cr 26:11; 2Cr 20:14; 2Cr 29:13; 2Cr 35:8).\n\n 35. Sacerdote en Jerusalén y padre de Juan el Bautista (Luc 1:5-64). Cuando quemaba incienso en el templo como parte de sus tareas, el ángel Gabriel se le apareció y le anunció que él y su anciana mujer, Elisabet, tendrían un hijo. Debido a que ambos habían pasado la edad para poder tener hijos, Zacarías le pidió una señal de que el nacimiento realmente se produciría. Debido a su falta de fe, el ángel lo dejó mudo. Cuando nació Juan, todos creyeron que lo llamarían Zacarías en honor a su padre, a pesar de las objeciones de Elisabeth, que creía que el niño debía llamarse “Juan”. Zacarías recuperó el habla cuando confirmó el nombre del bebé escribiéndolo en una tablilla.\n\nPaul L. Redditt"
+      ]
+    },
+    "ZACARÍAS, LIBRO DE": {
+      "word": "ZACARÍAS, LIBRO DE",
+      "definitions": [
+        "Uno de los profetas menores posexílicos. Al igual que Jeremías y Ezequiel, Zacarías era sacerdote y profeta. Esto parece adecuado, ya que la mayor parte del libro trata cuestiones relativas al templo, al sacerdocio y a la purificación del pueblo. El abuelo de Zacarías, Iddo, fue un sacerdote que regresó con Zorobabel (Neh 12:4), por lo que probablemente Zacarías haya sido un joven colega de Hageo. Sin embargo, Hageo centra sus escritos en la reconstrucción del templo y la restitución del sistema de sacrificios, mientras que Zacarías lo hace en la transformación espiritual del pueblo.\n\nMuchos están convencidos de que los capítulos 9 a 14 fueron escritos con bastante posterioridad a los capítulos 1 al 8 y por un autor diferente. La evidencia, sin embargo, no lleva necesariamente a esta conclusión, y la unidad temática del libro sugiere lo contrario. La situación histórica es la misma que la del libro de Hageo.\n\n Mensaje y propósito\n\n \n\nAcusación\n\nZacarías explicó que el desagrado del Señor para con el pueblo se debía a que en el pasado ellos lo habían abandonado. El pueblo se sentía desalentado debido a la oposición y a la evidente insignificancia del proyecto de construcción. Después de la época de Zorobabel, Judá tendría nuevamente líderes malvados que engañarían al pueblo. Esto haría que el pueblo volviera a rechazar al Señor.\n\n Instrucción\n\nEl Señor llamó a Judá a volver a Él y, de esta manera, a poner fin al desagrado divino. Dios exhortó al sumo sacerdote Josué y al remanente a que demostraran obediencia fiel a fin de conservar las bendiciones. Dicha exhortación incluyó un pedido indirecto de que se completara la construcción del templo. El Señor también le recordó a Judá que Su pueblo debía mostrar justicia y misericordia.\n\n Juicio\n\nEl juicio de la generación anterior por parte del Señor tuvo como objetivo enseñar a Israel a arrepentirse y mantener su fidelidad hacia Él. El futuro rechazo de Dios por parte del pueblo daría como resultado nueva oposición extranjera y la dispersión de Israel.\n\n Esperanza\n\nEl Señor prometió a Israel bendiciones cuando el pueblo se volviera a Él en obediencia fiel. También permitiría que, mediante Su Espíritu, Zorobabel y Josué completaran la construcción del templo, acción que prefiguraría la venida del reino mesiánico. Además, les aseguró que juzgaría a las naciones que los oprimían, pero que aun un remanente de las naciones se convertiría en Sus adoradores. Tal como había preservado un remanente de Israel y lo había purificado, de la misma manera Jehová enviaría al Mesías para proporcionar, mediante su muerte, perdón y paz permanentes y la erradicación total del mal. También enviaría Su Espíritu para provocar el arrepentimiento de toda la nación.\n\n Estructura\n\nZacarías abarca dos secciones principales que giran en torno de una sección central más pequeña pero prominente. Las dos secciones principales, cada una iniciada por una fórmula de fecha, son Zac 1:1-21; Zac 2:1-13; Zac 3:1-10; Zac 4:1-14; Zac 5:1-11; Zac 6:1-8 y Zac 7:1-14; Zac 8:1-23; Zac 9:1-17; Zac 10:1-12; Zac 11:1-17; Zac 12:1-14; Zac 13:1-9; Zac 14:1-21. La sección central en Zac 6:9-15 es una narración que describe el nombramiento de Josué como sumo sacerdote con una corona. Las secciones principales contienen siete secciones más breves además de una parte introductoria. En cada caso, las siete subsecciones están organizadas en una estructura repetitiva en torno a una subsección central y prominente. La subsección central en Zac 3:1-10 describe el nombramiento de Josué como sumo sacerdote con una mitra, y la subsección central en Zac 11:1-17 narra el nombramiento de Zacarías con dos cayados.\n\n Visiones nocturnas de Zacarías (Zac 1:1 – Zac 6:8)\n\nLos temas principales de las visiones nocturnas son\n\n (1) el juicio de Dios a las naciones,\n\n (2) elección y futura bendición de Jerusalén,\n\n (3) la purificación de la tierra,\n\n (4) la reconstrucción del templo, y\n\n (5) el liderazgo de Zorobabel y Josué. Las primeras tres visiones: (los caballos entre los mirtos Zac 1:7-17; los cuernos y los carpinteros Zac 1:18-21; el cordel de medir Zac 2:1-13) aseguran el juicio de Dios contra las naciones que han dispersado a Israel, el amor renovado de Dios por Jerusalén y Su promesa de bendiciones, y el triunfo de Su pueblo en la reconstrucción del templo.\n\nLa visión cuarta y central en Zac 3:1-10 describe la presentación del sumo sacerdote Josué frente al ángel de Dios que es, además, el Señor mismo (vv. Zac 3:1-2, comp. Gén 16:7-13; Gén 21:17; Gén 22:11-12; Gén 22:15-16; Gén 31:11-13). Esta visión habla de un futuro perdón permanente que el Mesías conseguiría cuando viniera a redimir a la nación y a establecer paz, prosperidad y seguridad en la tierra (vv. Zac 3:8-10; comp. 1Re 4:25; Miq 4:1-8).\n\nLa quinta visión del candelabro y los olivos (Zac 4:1-14) insta a Zorobabel y a Josué, representados por los dos olivos, a no confiar en recursos financieros ni militares sino en el poder del Espíritu de Dios representado por el aceite (comp. Isa 61:1-3) que actúa por medio de ellos. El candelabro probablemente representaba al templo que glorificaría a Dios en la tierra.\n\nLa sexta visión (Zac 5:1-11) del rollo volante y el efa es una composición similar a la segunda visión. Habla de la acción purificadora de Dios en Su pueblo. La visión final de los carros (Zac 6:1-8) remite a la primera visión. Describe el juicio divino sobre toda la tierra (comp. Jer 49:36; Apo 6:1-8; Apo 7:1). Debido al programa divino de juicio y redención descrito en las siete visiones, la tranquilidad y la paz superficial y falsa establecida por las naciones en la primera visión (Zac 1:11) se transforman en genuino descanso divino en la última visión (Zac 6:8).\n\n Coronación de Josué, el sumo sacerdote (Zac 6:9-15)\n\nEl oráculo en esta sección central y prominente del libro actúa como bisagra entre las dos secciones más grandes. Al igual que Zac 3:1-10, describe un prototipo mesiánico que recibe las señales de su cargo. Zacarías recibe la orden de fabricar coronas reales (en hebreo la palabra es plural) y coronar a Josué. Luego, las coronas se deben colocar en el templo como recordatorio de lo que Dios haría.\n\nPero primero, Josué recibe un mensaje divino de que “el Renuevo” (debido a que el mensaje era para Josué, “el Renuevo” designa a otra persona) construiría el templo, sería glorificado y reinaría (comp. 1Cr 29:25). La construcción del templo posexílico ya había sido asignada a Zorobabel (Zac 4:9) quien, como descendiente de David, prefiguraba al Mesías (Hag 2:23). Sin embargo, el Mesías construiría el templo asociado con Su reino terrenal de justicia (Zac 6:12-13), un templo futuro prefigurado por el de Zorobabel (Zac 4:8-10). Por lo tanto, esta profecía abarca la concreción presente y futura de los planes de Dios. La ambigüedad del pasaje sobre la cantidad de coronas y tronos (v. Zac 4:13) se debe a la necesidad de que Zorobabel y Josué prefiguraran al Mesías, quien sería rey y sacerdote. Finalmente, aunque el reino futuro estaba garantizado por el poder y la gracia de Dios, la “señal” contemporánea dependía de la obediencia diligente de Zorobabel, Josué y el remanente (v. Zac 6:15).\n\n Una pregunta sobre el ayuno (Zac 7:1-14; Zac 8:1-23)\n\nEstos dos capítulos sirven para introducir los dos oráculos de los capítulos 9–14, de igual modo que Zac 1:1-6 introduce las visiones de Zac 1:7 – Zac 6:8. Los temas de los días ceremoniales, por ejemplo, la santidad de la morada de Dios, la adoración universal de Dios, la reunión de los exiliados y la repoblación de Jerusalén se introducen en los capítulos Zac 7:1-14; Zac 8:1-23 y vuelven a aparecer en los capítulos Zac 9:1-17; Zac 10:1-12; Zac 11:1-17; Zac 12:1-14; Zac 13:1-9; Zac 14:1-21.\n\n Oráculos respecto a la venida del reino (Zac 9:1-17; Zac 10:1-12; Zac 11:1-7; Zac 12:1-14; Zac 13:1-9; Zac 14:1-21)\n\nEl resto del libro, probablemente escrito después de la finalización del templo, contiene dos oráculos o mensajes divinos en los capítulos Zac 9:1-17; Zac 10:1-12; Zac 11:1-17 y Zac 12:1-14; Zac 13:1-9; Zac 14:1-21. Ambos mensajes hablan del establecimiento del reino de Dios en la tierra. Ambos describen eventos futuros: algunos se cumplieron antes de la encarnación de Jesús, algunos durante Su ministerio y otros se cumplirán cuando Él regrese. Cada oráculo contiene tres secciones principales, aunque el primer oráculo concluye con una cuarta sección (Zac 11:1-17) que actúa como una bisagra entre los dos oráculos. Se trata de la tercera ceremonia de nombramiento en Zacarías (comp. Zac 3:1-10; Zac 6:9-15).\n\nSegún Zac 9:9-10, “uno de los pasajes más importantes en la Biblia referidos al Mesías” (Merrill), el reino de Dios se establecería por medio de un gobernante humano (ver también Isa 9:6-7; Sal 2:1-12; Sal 45:1-17; Sal 72:1-20, especialmente el v. Sal 72:8 que se menciona al final de Zac 9:10). Si bien los reyes en ocasiones montaban asnos (comp. 1Re 1:33), el contraste con el uso de un caballo de guerra (comp. Apo 19:11-16) parece sugerir humildad y paz. El cumplimiento del v. Sal 72:9 con la “entrada triunfal” de Jesús en Jerusalén es evidente en Mat 21:1-46 y Jua 12:1-50. Si tenemos en cuenta que Jesús fue crucificado unos pocos días después, la paz duradera y el dominio divino universal resultantes descritos en el v. Sal 72:10 sugieren una brecha no identificada entre los dos versículos o que el cumplimiento de Jesús en ese momento correspondía a un “prototipo histórico” de otro evento por venir. Pocos pasajes proféticos que describen la gloria mesiánica explican que sería precedida por sufrimiento y humillación (Isa 52:13-15; Isa 53:1-12 es la excepción más significativa).\n\nLa última ceremonia de nombramiento en Zac 11:4-17 contrasta con las anteriores porque Zacarías no es un mero observador sino que representa el rol del sacerdote-rey mesiánico. Aparentemente en una visión se lo designa como el buen pastor (Zac 9:16; Zac 10:3) y se le entregan dos cayados. No obstante, el Señor anuncia que entregará el rebaño a opresores extranjeros (v. Zac 11:6) debido a cómo lo han tratado (vv. Zac 11:7-14). Dios renunciaba a ser su pastor rompiendo los cayados. Por Sus servicios, se le pagó el precio insultante de 30 piezas de plata, el precio de un esclavo. Zacarías recibe la orden de arrojar las piezas en el tesoro de la casa del Señor. La importancia de esta escena solo cobra sentido al presenciar su cumplimiento en los Evangelios (comp. Mat 26:15; Mat 27:3-10). Luego, al final de la visión, Zacarías debe representar el rol del falso pastor a quien el Señor envía a castigar al rebaño durante un tiempo antes de Su juicio (Zac 11:15-17). El mensaje es que la liberación y la gloria de Israel estarían precedidas por opresión y sufrimiento, no solo en manos de extranjeros sino de los propios líderes judíos, debido a que rechazarían al Señor como su buen pastor (comp. Zac 13:7-8).\n\nEl segundo oráculo (Zac 12:1-14; Zac 13:1-9; Zac 14:1-21) se centra en cómo Dios libera a Jerusalén de sus enemigos, especialmente en la primera sección (Zac 12:1-9) y en la última (Zac 14:1-21). Aunque, como castigo, Dios entregaría a su pueblo en manos enemigas, nunca lo abandonaría (comp. Jer 30:11).\n\nLa segunda sección (Zac 12:10-14; Zac 13:1-9) promete un futuro arrepentimiento de toda la nación provocado por el Espíritu de Dios (comp. Eze 36:24-31; Joe 2:28-32). Israel experimentará dolor profundo y sincero por cómo trató al Señor, es decir, al Mesías (comp. Zac 11:8; Zac 13:7-8; Isa 53:1-9; Jua 19:37). Se hace referencia a la naturaleza del Mesías como Dios y hombre al referirse a Él en el v. Zac 14:10 como “yo” (es decir, Dios) y como “Él” (comp. Isa 9:6-7; un fenómeno similar ocurre en pasajes donde alude al ángel del Señor como Dios y como alguien diferente de Dios, comp. Gén 16:7-13; Éxo 3:2-4; Jue 6:11-27; Zac 3:1-6). Es terrible la orden que da Jehová en Zac 13:7 de “levantar” la espada contra Su pastor (es decir “matarlo”), “y contra el hombre y compañero mío” (RVR1960) (es decir, contra el “vecino”, “socio” o “amigo” de Dios) en una clara referencia al Mesías (comp. Isa 53:4). El propósito de la orden divina es, en primer lugar, anunciar que Su rebaño sería esparcido y castigado, y que muchos perecerían (comp. Mat 26:31). Luego, después de que Su pueblo hubiera sido purgado y refinado, sería revitalizado como el pueblo del pacto de Jehová, limpiado por la sangre de aquel a quien habían dado muerte. De esta manera se cumpliría el evangelio anunciado por el Señor en Gén 3:15.\n\nLa sección final (Zac 14:1-21), que amplía detalles de la primera sección, y de Su coronación como Rey de toda la tierra describe cómo Dios liberaría a Jerusalén en los últimos días. La derrota inicial de Jerusalén será convertida en victoria cuando el Señor aparezca (Zac 14:1-7; sobre la división del Monte de los Olivos, ver Zac 6:1). El lugar que presenció la agonía más profunda del Señor será testigo de Su mayor gloria. La culminación del trabajo de Dios será la santidad perfecta de Su pueblo, entre el cual Él morará, expresado esto de manera figurativa como extendiéndose aun a los elementos más comunes de la tierra de Dios (vv. Zac 14:20-21; comp. Éxo 19:6; Jer 2:3).\n\n Bosquejo\n\nI. Visiones nocturnas de Zacarías (Zac 1:1-21; Zac 2:1-13; Zac 3:1-10; Zac 4:1-14; Zac 5:1-11; Zac 6:1-8)\n\nA. Introducción (Zac 1:1-6)\n\n B. Primera visión: Caballos entre los mirtos (Zac 1:7-17)\n\n C. Segunda visión: Cuernos y carpinteros (Zac 1:18-21)\n\n D. Tercera visión: Cordel de medir (Zac 2:1-13)\n\n E. Cuarta visión: Josué y el ángel del Señor (Zac 3:1-10)\n\n F. Quinta visión: Candelabro y olivos (Zac 4:1-14)\n\n G. Sexta visión: Rollo volador y efa (Zac 5:1-11)\n\n H. Séptima visión: Carros (Zac 6:1-8)\n\n II. La coronación de Josué, el sumo sacerdote (Zac 6:9-15)\n\n III. Dos oráculos sobre la venida del reino (Zac 7:1-14; Zac 8:1-23; Zac 9:1-17; Zac 10:1-12; Zac 11:1-17; Zac 12:1-14; Zac 13:1-9; Zac 14:1-21)\n\nA. Introducción: Una pregunta sobre el ayuno (Zac 7:1-14; Zac 8:1-23)\n\n B. Primer oráculo: Liberación del exilio (Zac 9:1-17; Zac 10:1-12; Zac 11:1-17)\n\n1. Victoria futura (Zac 9:1-17)\n\n 2. Denuncia de los falsos pastores (Zac 10:1-3 a)\n\n 3. Liberación de Judá por el buen pastor (Zac 10:3 b– Zac 10:4-12; Zac 11:1-3)\n\n 4. Conclusión: Nombramiento de Zacarías como el buen pastor (Zac 11:4-17)\n\n C. Segundo oráculo: Dios libera a Jerusalén (Zac 12:1-14; Zac 13:1-9; Zac 14:1-21)\n\n1. Destrucción de los enemigos de Jerusalén (Zac 12:1-9)\n\n 2. Arrepentimiento de toda la nación (Zac 12:10-14; Zac 13:1-9)\n\n 3. Aparición de Yahvéh como Libertador y Rey (Zac 14:1-21)\n\n E. Ray Clendenen"
+      ]
+    },
+    "ZACAY": {
+      "word": "ZACAY",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Zacai."
+      ]
+    },
+    "ZACUR": {
+      "word": "ZACUR",
+      "definitions": [
+        "Nombre de persona que significa “bien recordado”.\n\n 1. Padre de Samúa de la tribu de Rubén (Núm 13:4).\n\n 2. Descendiente de Misma de la tribu de Simeón (1Cr 4:26).\n\n 3. Descendiente de Merari entre los levitas (1Cr 24:27).\n\n 4. Hijo de Asaf (1Cr 25:2; Neh 12:35).\n\n 5. Hijo de Imri, que ayudó a reconstruir los muros de Jerusalén (Neh 3:2).\n\n 6. Uno de los que firmaron el pacto de la reforma en la época de Esdras y Nehemías (Neh 10:12).\n\n 7. Padre de Hanán, uno de los tesoreros nombrados por Nehemías (Neh 13:13)."
+      ]
+    },
+    "ZAFENAT PANEA": {
+      "word": "ZAFENAT PANEA",
+      "definitions": [
+        "(NVI, PDT) Ver Zafnat-panea."
       ]
     },
     "ZAFIRO": {
       "word": "ZAFIRO",
       "definitions": [
-        "Véase PIEDRAS PRECIOSAS."
+        "Ver Minerales y metales."
       ]
     },
     "ZAFNAT-PANEA": {
       "word": "ZAFNAT-PANEA",
       "definitions": [
-        "(egip.: «el [o este] viviente es el aprovisionamiento del país»). Nombre que Faraón dio a José (Gn. 41:45). Los judíos, basándose en la pronunciación del nombre, lo tradujeron como «revelador de secretos» (Targum de Onquelos; Ant. 2:6, 1)."
+        "Nombre de persona que significa “el dios ha dicho, él vivirá”. Nombre que el faraón dio a José cuando lo nombró segundo en poder después de él en Egipto (Gén 41:45). Ver José."
       ]
     },
     "ZAFÓN": {
       "word": "ZAFÓN",
       "definitions": [
-        "= «norte». Una de las ciudades que Moisés dio a los gaditas en el valle del Jordán (Jos. 13:27; cfr. Jue. 12:1). El Talmud la identifica con Amatho, es decir, Amathus (Ant. 13:13, 5; 14:5, 4). En tal caso, se debería identificar con Tell 'Ammatah, en el valle del Jordán, al este del río y a 13 Km al nor-nordeste de la desembocadura del Jaboc. Glueck lo sitúa en Tell el-Kos (1943)."
+        "Nombre geográfico que significa “norte”.\n\n 1. Ciudad al este del Río Jordán en el territorio de Gad (Jos 13:27). Probablemente era un centro de adoración del dios Baal-zafón en los días de supremacía cananea, antes de que los gaditas los conquistaran. Se identifica con Tell el-Qos, Tell es Saidiye o Tell el-Mazar. Atarot-sofán (Núm 32:35) puede ser otra variable ortográfica de la misma ciudad.\n\n 2. Montaña considerada como el hogar de los dioses en el pensamiento cananeo, a la cual tal vez se haga referencia en Sal 48:2 (RVR1960), Isa 14:13 (NVI) y Job 26:7 (RVR1960), pasajes que muestran que Jehová controla lo que, según Canaán, era posesión de sus propios dioses."
+      ]
+    },
+    "ZAHAM": {
+      "word": "ZAHAM",
+      "definitions": [
+        "Nombre de persona que significa “gordura” o “aversión”. Hijo del rey Roboam y de Abigail (2Cr 11:18-19)."
+      ]
+    },
+    "ZAIN": {
+      "word": "ZAIN",
+      "definitions": [
+        "Séptima letra del alfabeto hebreo. Título del Sal 119:49-56 en donde cada verso comienza con esa letra."
+      ]
+    },
+    "ZAIR": {
+      "word": "ZAIR",
+      "definitions": [
+        "Nombre geográfico que significa “pequeño”. Lugar donde Joram, rey de Judá (853-841 a.C.), luchó contra Edom (2Re 8:20-21). La ubicación de Zair sigue siendo tema de disputa. Algunos lo sitúan al sur del Mar Muerto cerca de Edom. Otros lo equiparan con Zoar (Gén 13:10) o con Sior (Jos 15:54; comp. 2Cr 21:9)."
+      ]
+    },
+    "ZAJÁN": {
+      "word": "ZAJÁN",
+      "definitions": [
+        "(NVI, PDT) Ver Zaham."
+      ]
+    },
+    "ZALMONA": {
+      "word": "ZALMONA",
+      "definitions": [
+        "Nombre geográfico que significa “oscuro” o “sombreado”. Primera parada de Israel después de dejar el Monte de Hor (Núm 33:41-42). El lugar no ha podido identificarse."
       ]
     },
     "ZALMUNA": {
       "word": "ZALMUNA",
       "definitions": [
-        "Uno de los dos reyes madianitas que Gedeón persiguió y mató (Jue. 8:4-28; Sal. 83:12)."
+        "Nombre de persona que significa “la protección se ha retirado” o “Zelem (dios) reina”. Rey de Madián capturado y asesinado por Gedeón (Jue 8:1-21; Sal 83:11)."
       ]
     },
     "ZAMPOÑA": {
       "word": "ZAMPOÑA",
       "definitions": [
-        "Del aram. «sumphoneya», que se halla en Dn. 3:5, 7, 10, 15; proviene del gr. «sumphonia», que significa «sinfonía, armonía de sonidos». Este instrumento se emplea en numerosos lugares de Oriente, asemejándose a una gaita o cornamusa, pero disponiendo sólo de dos tubos, uno para insuflar aire en el pellejo, y otro con el que tocar. (Véase MÚSICA.)"
+        "Posiblemente una palabra griega utilizada para referirse a un instrumento musical en Dan 3:10. Muchos piensan que en este pasaje se refiere a las gaitas (LBLA). Algunas versiones traducen “tambor”."
+      ]
+    },
+    "ZAMZUMITAS": {
+      "word": "ZAMZUMITAS",
+      "definitions": [
+        "(DHH, NVI, PDT, TLA) Ver Zomzomeos."
+      ]
+    },
+    "ZANAYIN": {
+      "word": "ZANAYIN",
+      "definitions": [
+        "(NVI, PDT) Ver Zaanaim."
       ]
     },
     "ZANOA": {
       "word": "ZANOA",
       "definitions": [
-        "(a) Ciudad de la llanura de Judá (Jos. 15:34). Allí fijaron su residencia algunos judíos vueltos de la cautividad (Neh. 11:30), indudablemente los mismos que reconstruyeron en Jerusalén la Puerta del Valle (Neh. 3:13). Identificación: Khirbet Zanû o Zanuh, a 5 Km. al sureste-sur de Bet-semes. (b) Localidad de la región montañosa de Judá (Jos. 15:56 y, probablemente, 1 Cr. 4:18). Identificación plausible: a unos 2 Km. al noroeste de Yatta, un lugar llamado Khirbet Beit-'Amra."
+        "Nombre geográfico que significa “terreno accidentado” o “pestilente”.\n\n 1. Aldea en Judá identificada con Khirbet Zanu, alrededor de 5 km (3 millas) al sudeste de Bet-semes (Jos 15:34).\n\n 2. Ciudad en la zona montañosa de Judá (Jos 15:56) cuya identificación con Khirbet Zanuta, a 15 km (10 millas) de Hebrón, o Khirbet Beit Amra, es tema de disputa."
       ]
     },
-    "ZAPATOS, SANDALIAS": {
-      "word": "ZAPATOS, SANDALIAS",
+    "ZANÓAH": {
+      "word": "ZANÓAH",
       "definitions": [
-        "El calzado de los hebreos era generalmente sandalias de cuero, que se ataban mediante correas. Antes de entrar en una sala se quitaban las sandalias, lo mismo que para comer (cfr. Lc. 7:38). En las casas ricas, un esclavo o siervo quitaba el calzado a los invitados (cfr. Mr. 1:7). Las personas debían descalzarse antes de entrar en un lugar santo (Éx. 3:5; Jos. 5:15). No se da la descripción del calzado en la relación de las prendas sacerdotales, lo que permite suponer que los sacerdotes llevaban a cabo sus funciones en el santuario descalzos. La privación de sandalias y de toda vestimenta superflua marcaba la triste condición de los cautivos (Is. 20:2), y también era señal de aflicción (2 S. 15:30). El hecho de llevar calzado y turbante en un día de duelo era una manera de esconder el dolor (Ez. 24:17, 23). En los tiempos antiguos de Israel, para demostrar que se había llevado a cabo un rescate o una transacción, uno se quitaba la sandalia, que daba al comprador, lo que simbolizaba la transmisión del derecho de propiedad (Rt. 4:7, 8). Pero si un hombre rehusaba casarse con la viuda de su hermano, ésta le quitaba la sandalia y le escupía en la cara (Dt. 25:9, 10). Echar la sandalia sobre algún lugar denotaba su toma de posesión, o quizá se refiere a hacer un gesto de dueño, echando las sandalias al esclavo encargado de llevarlas o de limpiarlas (Sal. 60:8). En la panoplia del cristiano, sus pies están equipados con el apresto «del evangelio de la paz» (Ef. 6:15; cfr. Ro. 10:15)."
+        "(DHH, TLA) Ver Zanoa."
+      ]
+    },
+    "ZANOAJ": {
+      "word": "ZANOAJ",
+      "definitions": [
+        "(RVC) Ver Zanoa."
+      ]
+    },
+    "ZANZUMITAS": {
+      "word": "ZANZUMITAS",
+      "definitions": [
+        "(RVC) Ver Zomzomeos."
       ]
     },
     "ZAQUEO": {
       "word": "ZAQUEO",
       "definitions": [
-        "(forma gr.; probablemente contracción del heb. Zacarías). Hombre rico de Jericó. Los romanos lo habían nombrado jefe de los publicanos. Zaqueo se hizo discípulo de Cristo (Lc. 19:1-10). (Véase PUBLICANO.)"
+        "Forma griega de un nombre hebreo que significa “inocente”. Corrupto recaudador de impuestos en la Jericó del primer siglo (Luc 19:2-9). Fue a escuchar a Jesús por curiosidad y, debido a su corta estatura, se trepó a un árbol para poder ver al Señor. Para su sorpresa, Jesús lo llamó por su nombre para que bajara del árbol y se fue con él a su casa. El funcionario entonces creyó y se convirtió. Su nueva fe impulsó a Zaqueo a devolver con intereses el dinero que había obtenido ilegalmente."
       ]
     },
-    "ZARCILLOS": {
-      "word": "ZARCILLOS",
+    "ZARA": {
+      "word": "ZARA",
       "definitions": [
-        "Los israelitas, tanto hombres como mujeres y niños, llevaban este ornamento (Éx. 32:2), en especial las mujeres (Ez. 16:12; Jdt. 10:4). También los madianitas los usaban (Nm. 31:50), lo mismo que tantos pueblos de la antigüedad, como los asirios, los egipcios, etc. Ésta sería una costumbre anodina, excepto por el hecho de que en muchas ocasiones se usaban como amuletos (cfr. Is. 3:20). Los hombres y mujeres de la familia de Jacob los llevaban en seguimiento de las prácticas idolátricas, hasta que Jacob les ordenó desembarazarse de los dioses extraños (Gn. 35:4). Estos zarcillos eran de oro (Éx. 32:2; cfr. Pr. 25:12) o de otros metales preciosos. El texto no indica siempre si se trataba de zarcillos para las orejas o de anillas para la nariz (Gn. 24:22, 30; Éx. 35:22)."
+        "Nombre de persona que significa “salida del sol”. Hijo mellizo de Tamar y su suegro, Judá (Gén 38:30). Uno de sus descendientes fue Acán, quien fue ejecutado por tomar botines prohibidos (Jos 7:1; Jos 7:25). Zara se incluye en la genealogía de Cristo que hace Mateo, aunque Fares fue su antepasado directo (Mat 1:3)."
       ]
     },
-    "ZARED": {
-      "word": "ZARED",
+    "ZARET-SAHAR": {
+      "word": "ZARET-SAHAR",
       "definitions": [
-        "= «exuberante». Torrente y valle que los israelitas atravesaron al final de los 38 años transcurridos en el desierto. El Zared marcó el final de las peregrinaciones del pueblo (Nm. 21:12; Dt. 2:13, 14); este torrente se hallaba al sur del Arnón. Probablemente se trata del wadi el-Hesã (a 22 Km. al sur del wadi el Kerak), y que desemboca en el mar Muerto."
+        "Nombre geográfico que significa “esplendor del alba”. Ciudad ubicada “en el monte del valle [del Mar Muerto]” asignada a Rubén (Jos 13:19). El sitio quizás sea la moderna ciudad de Sarta cerca de Macaerus, en la costa este del Mar Muerto. Otros sugieren Khirbet el-Libb, a 11 km (7 millas) al sur de Medeba, o bien Khirbet Qurn el-Kibsh, a unos 10 km (6 millas) al noroeste de Medeba."
       ]
     },
-    "ZARED-SAHAR": {
-      "word": "ZARED-SAHAR",
+    "ZARET SAJAR": {
+      "word": "ZARET SAJAR",
       "definitions": [
-        "= «rompimiento de la aurora». Ciudad de Rubén, sobre un monte que dominaba una depresión, sin duda la del mar Muerto (Jos. 13:19). No identificada. En los parajes de Maqueronte se hallan las fuentes calientes de Hammat es-Sara, nombre que quizá provenga de este nombre hebreo."
+        "(NVI, PDT) Ver Zaret-sahar."
       ]
     },
     "ZARZA": {
       "word": "ZARZA",
       "definitions": [
-        "Del heb. «S'neh» y del gr. «batos», zarza espinosa (Lc. 6:44). La zarza que Moisés vio ardiendo sin consumirse y desde la que le habló Jehová (Éx. 3:2, 3; Dt. 33:16; Mr. 12:26). Tristram creía que se trataba de la «acacia vera» o de la «nilotica», especie de acacia llamada también espina de Egipto, arbusto seco, espinoso, con hojas lobuladas y flores blancas; llega a casi 4 m. de altura y se extiende por numerosas regiones de África, por la península del Sinaí, en Palestina y por las riberas del mar Muerto. Exuda una sustancia por el tronco y las ramas que se endurece en el aire y que se comercializa bajo el nombre de goma arábiga."
+        "Arbusto (Lycium europaeum) con espinas agudas y ramas que generalmente forman una masa de vegetación enredada (Jue 9:8-15; Luc 6:44). Tenía flores hermosas y atractivas pero las espinas provocaban problemas a los rebaños. En la actualidad sabemos que previene la erosión en las laderas de las montañas."
+      ]
+    },
+    "ZARZA ARDIENTE": {
+      "word": "ZARZA ARDIENTE",
+      "definitions": [
+        "En Éxo 3:2, la atención de Moisés fue captada por la visión de una zarza que ardía sin ser consumida por el fuego. Cuando se dio vuelta para investigar, Dios le habló desde la zarza y le dio instrucciones para regresar a Egipto a fin de liberar de la esclavitud al pueblo hebreo. Se ha intentado explicar el fenómeno declarando que la zarza tenía un follaje de un color brillante semejante al fuego, o que sus hojas reflejaban el brillo del sol de una manera inusual. No obstante, es mejor considerar que la zarza ardiente fue un acto singular de parte de Dios. Pareciera que su significado principal, quizás único, fue convertirse en el medio para captar la atención de Moisés y capacitarlo para escuchar la palabra divina. Ver Éxodo; Moisés."
       ]
     },
     "ZATU": {
       "word": "ZATU",
       "definitions": [
-        "Fundador de una familia, algunos de cuyos miembros volvieron del exilio (Esd. 2:8; Neh. 7:13). Algunos de ellos despidieron a sus mujeres paganas (Esd. 10:27). El representante de la familia participó en la firma del pacto de Nehemías (Neh. 10:14)."
+        "Cabeza de familia que regresó a Jerusalén después del exilio (Esd 2:8; Neh 7:13). Algunos de sus hijos despidieron a sus esposas extranjeras (Esd 10:27). Parece ser el mismo “Zatu” que firmó el pacto en la época de Nehemías (Neh 10:14)."
+      ]
+    },
+    "ZAVÁN": {
+      "word": "ZAVÁN",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Zaaván."
+      ]
+    },
+    "ZAZA": {
+      "word": "ZAZA",
+      "definitions": [
+        "Hijo de Jonatán y descendiente de Jerameel (1Cr 2:33)."
+      ]
+    },
+    "ZEATRAI": {
+      "word": "ZEATRAI",
+      "definitions": [
+        "(LBLA, NTV) Ver Jeatrai."
       ]
     },
     "ZEBA": {
       "word": "ZEBA",
       "definitions": [
-        "Uno de los dos reyes madianitas que Gedeón persiguió y mató (Jue. 8:4-28; Sal. 83:12)."
+        "Nombre de persona que significa “matanza” o “sacrificio”. Él y Zalmuna eran reyes madianitas que Gedeón capturó y mató porque habían asesinado a sus hermanos (Jue 8:4-21; Sal 83:11; Isa 9:4; Isa 10:26). Este relato muestra el acto de venganza que con frecuencia prevalecía en esos tiempos, y marca un punto decisivo en las luchas de Israel contra los madianitas."
       ]
     },
     "ZEBADÍAS": {
       "word": "ZEBADÍAS",
       "definitions": [
-        "= «Jehová ha dado». (a) Benjamita de la casa de Beria (1 Cr. 8:15, 16). (b) Benjamita descendiente de Elpaal (1 Cr. 8:17, 18). (c) Hijo de Jeroham de Gedor; se unió a David en Siclag (1 Cr. 12:7). (d) Hijo de Asael el hermano de Joab (1 Cr. 27:7). (e) Levita descendiente de Coré e hijo de Meselemías (1 Cr. 17:8). (f) Uno de los levitas encargados por Josafat de enseñar la Ley (2 Cr. 19:11). (g) Descendiente de Sefatías; estaba entre los israelitas que acompañaron a Esdras a la vuelta del exilio de Babilonia (Esd. 8:8). (h) Sacerdote, descendiente de los hijos de Imer; Esdras lo persuadió a que despidiera a su mujer extranjera (Esd. 10:20)."
+        "Nombre de persona que significa “Yahvéh ha dado”.\n\n 1. Hijo de Bería (1Cr 8:15).\n\n 2. Hijo de Elpaal (1Cr 8:17).\n\n 3. Hijo de Jeroham de Guedor (1Cr 12:7).\n\n 4. Portero del templo (1Cr 26:2).\n\n 5. Cuarto capitán en el ejército de David (1Cr 27:7).\n\n 6. Uno de los nueve levitas enviados por Josafat para enseñar la ley en los pueblos de Judá (2Cr 17:8).\n\n 7. Hijo de Ismael que presidía las causas civiles en un sistema judicial que Josafat había establecido (2Cr 19:11).\n\n 8. Hijo de Sefatías que regresó a Jerusalén desde Babilonia (Esd 8:8).\n\n 9. Sacerdote que despidió a su esposa extranjera en la época de Esdras (Esd 10:20)."
+      ]
+    },
+    "ZÉBAH": {
+      "word": "ZÉBAH",
+      "definitions": [
+        "(DHH, TLA) Ver Zeba."
+      ]
+    },
+    "ZEBAJ": {
+      "word": "ZEBAJ",
+      "definitions": [
+        "(RVC) Ver Zeba."
       ]
     },
     "ZEBEDEO": {
       "word": "ZEBEDEO",
       "definitions": [
-        "(forma gr. del heb. «Z'badyãh»: «Jehová ha dado»). Marido de Salomé, y padre de Jacobo y de Juan. Él y sus hijos eran pescadores del mar de Galilea (Mt. 4:21, 22). Zebedeo estaba acomodado y tenía siervos (Mr. 1:19, 20). No se opuso en absoluto a que sus hijos siguieran a Jesús."
+        "Forma griega del nombre de persona hebreo que significa “dádiva”. Pescador del Mar de Galilea, padre de Jacobo y Juan, dos de los primeros discípulos de Jesús (Mar 1:19-20). Zebedeo poseía un floreciente negocio de pesca con sede en Capernaum en la costa norte del mar. Dicho negocio incluía varios sirvientes contratados, entre ellos Simón Pedro y Andrés (Luc 5:10). Su esposa también siguió a Jesús y lo sirvió en Su ministerio (Mat 27:56). La Biblia no dice si Zebedeo finalmente se convirtió al cristianismo, pero no se opuso a que sus hijos y esposa se convirtieran en discípulos de Jesús."
+      ]
+    },
+    "ZEBINA": {
+      "word": "ZEBINA",
+      "definitions": [
+        "Nombre de persona que significa “comprado”. Uno que tenía una esposa extranjera en la época de Esdras (Esd 10:43)."
       ]
     },
     "ZEBOIM": {
       "word": "ZEBOIM",
       "definitions": [
-        "I. (Heb. «s'boyim» = «gacelas».) Una de las cinco ciudades de la llanura (Gn. 10:19). Quedorlaomer venció a su rey (Gn. 14:2, 8, 10). El fuego del cielo la destruyó, como a las otras ciudades vecinas (Gn. 19:17-29; Dt. 29:23; Os. 11:8). (Véase SODOMA.) II. (Heb. «s'bo'im» = «hienas».) 1. Valle de Benjamín, entre Micmas y el desierto al este (1 S. 13:16-18). Este nombre heb. se preserva en el árabe moderno: el wadi Abu Diba' («padre de hienas») es un afluente meridional del wadi el-Kelt, al norte del que una pequeña ramificación del valle se llama Shakk ed-Diba' («barranca de las hienas»). 2. Ciudad que ocuparon los benjamitas al volver del exilio (Neh. 11:34). Esta población se hallaba en las colinas de la linde de la llanura de Sarón, al norte de Lida."
+        "Nombre geográfico que posiblemente signifique “hienas”. Una de las ciudades en el Valle de Sidim (Gén 14:2-3) en el extremo sur del Mar Muerto. En la actualidad, el sitio probablemente se encuentre sumergido. Zeboim era gobernada por el rey Semeber pero estaba bajo el control de Quedorlaomer, rey de Elam. Cuando Semeber se rebeló, Quedorlaomer fue a terminar con la rebelión. Aunque el texto no resulta claro, pareciera que la ciudad fue entregada cuando Abram derrotó a Quedorlaomer (Gén 14:16-17). Zeboim fue destruida cuando Dios envió fuego y azufre sobre Sodoma y Gomorra (Deu 29:23; comp. Ose 11:8). Los recientes intentos por identificar Zeboim en las tablillas de Ebla han sido centro de acalorados debates."
+      ]
+    },
+    "ZEBOYÍN": {
+      "word": "ZEBOYÍN",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Zeboim."
+      ]
+    },
+    "ZEBUDA": {
+      "word": "ZEBUDA",
+      "definitions": [
+        "Nombre de persona que significa “dádiva”. Hija de Pedaías de Ruma y madre del rey Joacim (2Re 23:36 NVI “Zebudá”)."
       ]
     },
     "ZEBUL": {
       "word": "ZEBUL",
       "definitions": [
-        "= «morada». Gobernador de Siquem en la época de Abimelec. Zebul se mantuvo fiel a Abimelec durante la rebelión de los siquemitas (Jue. 9:28, 36-39)."
+        "Nombre de persona que significa “príncipe” o “capitán”. Residente de Siquem que era seguidor de Abimelec, hijo de Gedeón. Cuando Gaal se complotó contra Abimelec en Siquem, Zebul dio aviso a este, que fue hasta Siquem y derrotó a Gaal (Jue 9:30-41)."
+      ]
+    },
+    "ZEDAD": {
+      "word": "ZEDAD",
+      "definitions": [
+        "Nombre geográfico que significa “lugar inclinado” o “montañoso”. Es Sadad, a 100 km (unas 60 millas) de Damasco, la frontera norte de Canaán (Núm 34:8; Eze 47:15)."
       ]
     },
     "ZEEB": {
       "word": "ZEEB",
       "definitions": [
-        "= «lobo». Príncipe madianita; Gedeón le dio muerte en el lagar, llamado a partir de entonces lagar de Zeeb (Jue. 7:25). (Véase OREB.)"
+        "Ver Oreb y Zeeb."
+      ]
+    },
+    "ZEFO": {
+      "word": "ZEFO",
+      "definitions": [
+        "Abreviatura del nombre de persona que significa “pureza” o “buena fortuna”. Descendiente de Esaú (Gén 36:11; Gén 36:15; 1Cr 1:36)."
+      ]
+    },
+    "ZEFÓN": {
+      "word": "ZEFÓN",
+      "definitions": [
+        "Nombre de persona que quizás signifique “norte”. Hijo mayor de Gad, antepasado de los zefonitas (Núm 26:15). El Pentateuco samaritano y la traducción griega más antigua apoyan la identificación con Zifión (Gén 46:16)."
+      ]
+    },
+    "ZEFONITA": {
+      "word": "ZEFONITA",
+      "definitions": [
+        "Miembro del clan de Zefón."
+      ]
+    },
+    "ZELA": {
+      "word": "ZELA",
+      "definitions": [
+        "Nombre geográfico que significa “costilla, costado, ladera”. Ciudad asignada a Benjamín (Jos 18:28) en la cual fueron enterrados los huesos de Saúl y Jonatán (2Sa 21:14). El sitio probablemente sea Khirbet-salah, entre Jerusalén y Gabaón, u otro lugar en los montes al norte y al oeste de Jerusalén."
       ]
     },
     "ZELOFEHAD": {
       "word": "ZELOFEHAD",
       "definitions": [
-        "= «sombra del temor», es decir, «protección contra el temor». Hombre de Manasés, de la familia de Maquir, de la rama de Galaad, de la casa de Hefer. No tuvo hijos, sino cinco hijas (Nm. 26:33). Por solicitud de ellas, Moisés recibió del Señor instrucciones de introducir en la legislación una cláusula que atribuía a las hijas la heredad del padre muerto sin hijos varones (Nm. 27:1-8). Esta ley tenía una cláusula complementaria: las herederas se debían casar dentro de la tribu paterna, a fin de que su patrimonio quedara dentro de la tribu Nm. 36:1-12. Las tierras de Zelofehad se hallaban al este del Jordán."
+        "Nombre de persona que significa “protección del terror” o “el pariente es mi protector”. Hebreo que deambuló por el desierto con Moisés. No tuvo hijos varones que heredaran su propiedad y su nombre, de modo que sus hijas recurrieron a Moisés para poder recibir una parte de la herencia después de la muerte de su padre (Núm 26:33; Núm 27:1-4). A pesar de que las costumbres de asignación de herencia estipulaban que\n\núnicamente los hijos varones tenían derecho a heredar, Dios guió a Moisés para que declarara que las hijas de Zelofehad eran aptas (Núm 27:6-7). La única condición fue que las mujeres se casaran con hombres de su propia tribu (Núm 36:5-9)."
+      ]
+    },
+    "ZELOFEJAD": {
+      "word": "ZELOFEJAD",
+      "definitions": [
+        "(NTV, NVI, PDT) Ver Zelofehad."
       ]
     },
     "ZELOTE": {
       "word": "ZELOTE",
       "definitions": [
-        "= «uno que tiene celo». Transcripción gr. del término aram. «kan'ân». Miembro de un partido de patriotas judíos (Guerras 4:3, 9; 7:8, 1). Debido a este calificativo se distinguía entre Simón Pedro y Simón el zelote (Lc. 6:15; Hch. 1:13). Judas el Galileo creó este partido en la época de Cirenio con el fin de hacer frente a los romanos. Degeneró finalmente en una organización de asesinos, los sicarios (Ant. 18:1,1 y 6; Guerras 2:8, 1; 17:8; 4:3, 9 ss.). El fanatismo de los zelotes contribuyó a desencadenar la guerra entre judíos y romanos."
+        "Persona que demostraba “celo” por una causa en particular. El término llegó a utilizarse para referirse al sector judío que buscaba derrocar el control extranjero sobre Palestina, especialmente el control romano. Estos zelotes con frecuencia recurrían a medidas extremas para lograr sus objetivos. A Simón, uno de los discípulos de Jesús, se lo describe como “zelote” (Mat 10:4 NVI), aunque la RVR1960 lo traduce incorrectamente como “el cananista”. Ver Judíos (grupos, partidos) en el Nuevo Testamento; Cananista.\n\nThomas Strong"
       ]
     },
     "ZEMARAIM": {
       "word": "ZEMARAIM",
       "definitions": [
-        "(a) Ciudad de Benjamín (Jos. 18:22); frecuentemente identificada con Khirbet es-Samrah, a 5 Km. al oeste del Jordán y a 6 Km. al norte de Jericó. Otra identificación más plausible: Rãs ez-Zeimara, en el monte, entre Taiyibeh y Rammûn. (b) Altura de la región montañosa de Efraín, desde cuya cumbre el rey Abías de Judá dirigió la palabra de las diez tribus antes de combatir contra ellas (2 Cr. 13:4). Es posible que se hallara al sur de Bet-el (2 Cr. 13:19). Es probable que este monte se hallara cerca de la población de Zemaraim."
+        "Nombre geográfico que significa “picos gemelos”.\n\n 1. Ciudad asignada a la tribu de Benjamín (Jos 18:22), probablemente Ras ex-Zeimara, a unos 8 km (5 millas) al noreste de Bet-el.\n\n 2. Montaña en el territorio de Efraín donde Abías reprendió a Jeroboam (2Cr 13:4). El texto paralelo en 1Re 15:7 menciona hostilidades entre Abías y Jeroboam pero no menciona el discurso en Zemaraim. Es posible que la ciudad y la montaña estén ubicadas en el mismo lugar. Algunos ubican la ciudad en Khirbet es-Samra, a 6 km (4 millas) de Jericó."
+      ]
+    },
+    "ZEMARAYIN": {
+      "word": "ZEMARAYIN",
+      "definitions": [
+        "(NVI, PDT) Ver Zemaraim."
       ]
     },
     "ZEMAREOS": {
       "word": "ZEMAREOS",
       "definitions": [
-        "Tribu cananea, nombrada entre los arvadeos y los hamateos (Gn. 10:18; 1 Cr. 1:16); ocupaba el emplazamiento de la moderna Sumra, anteriormente Sumur, Simirra (gr. «Symira»), sobre el litoral mediterráneo, entre Arvad y Trípoli."
+        "Cananeos que habitaban el área norte del Líbano, entre Arvad y Trípoli (Gén 10:18; 1Cr 1:16). Los zemareos posiblemente dieron su nombre a la ciudad de Sumra en esta región. La ciudad figura en las cartas de Tell Amarna y en registros asirios."
+      ]
+    },
+    "ZEMIRA": {
+      "word": "ZEMIRA",
+      "definitions": [
+        "Nombre de persona que significa “canción”. Descendiente de Benjamín (1Cr 7:8)."
+      ]
+    },
+    "ZENÁN": {
+      "word": "ZENÁN",
+      "definitions": [
+        "Nombre geográfico que posiblemente signifique “campo de ovejas” o “llanura desértica”. Ciudad no identificada en el sur de Judá (Miq 1:11), probablemente la misma que aparece en Jos 15:37."
       ]
     },
     "ZENAS": {
       "word": "ZENAS",
       "definitions": [
-        "(contracción del gr. «Zênodoros», «don de Zeus»). Doctor de la Ley; acudió a Creta con Apolos. El apóstol Pablo recomendó a Timoteo que proveyera para que pudiera seguir su viaje (Tit. 3:13)."
+        "Forma abreviada del nombre Zenodoros, que significa “dádiva de Zeus”. Abogado cristiano; Pablo pidió a Tito que lo enviara junto con Apolo sin que les faltara nada en el camino (Tit 3:13). Pablo tenía en mente, sin duda, provisiones materiales para el trabajo de evangelización itinerante. Zenas y Apolo quizás entregaron a Tito la carta paulina."
+      ]
+    },
+    "ZEQUER": {
+      "word": "ZEQUER",
+      "definitions": [
+        "Forma de Zacarías (1Cr 9:37) utilizada en 1Cr 8:31. Ver Zacarías."
+      ]
+    },
+    "ZER": {
+      "word": "ZER",
+      "definitions": [
+        "Nombre geográfico que significa “estrecho” o “enemigo”. Ciudad fortificada en Neftalí (Jos 19:35), posiblemente identificada con Madón, cuya ausencia es notoria en esta lista. Los comentaristas con frecuencia toman Zer como una modificación del copista, que repite el hebreo para “ciudades fortificadas”. Ver Sidim."
       ]
     },
     "ZERA": {
       "word": "ZERA",
       "definitions": [
-        "= «luz centelleante, aurora». (a) Príncipe de Edom; descendiente de Esaú, de Ismael (Gn. 36:3, 4, 13, 17; 1 Cr. 1:37 y posiblemente v. 44). (b) Uno de los gemelos de Judá y Tamar; fundador de un clan (Nm. 25:20; Jos. 7:1, 17). Llamado Zara en Gn. 38:30; 46:12; Mt. 1:3. (c) Hijo de Simeón y fundador de un clan (Nm. 26:13). En Gn. 46:10 y Éx. 6:15 recibe el nombre de Zohar. (d) Levita de la familia de Gersón (1 Cr. 6:21, 41). (e) Etíope comandante del ejército atacado por el rey Asa; fue completamente vencido en Maresa (2 Cr. 14:8-14). En el contexto de la cronología revisada, Velikovsky identifica a Zera el etíope con Amenhotep II (cfr. «Ages in Chaos», Doubleday, 1952, PP. 205-219; véase UGARIT)."
+        "1. Descendiente de Esaú y, por lo tanto, líder del clan de los edomitas (Gén 36:13; Gén 36:17).\n\n 2. Antepasado de un rey edomita (Gén 36:33).\n\n 3. Líder de un clan de la tribu de Simeón (Núm 26:13), aparentemente el mismo que Zohar (Gén 46:10).\n\n 4. Levita (1Cr 6:21; 1Cr 6:41).\n\n 5. General cusita que Dios derrotó en respuesta a la oración de Asa alrededor de 900 a.C. (2Cr 14:8-13). Ver Cus; Etiopía.\n\n 6. (NVI, PDT) Ver Zara."
+      ]
+    },
+    "ZÉRAH": {
+      "word": "ZÉRAH",
+      "definitions": [
+        "(DHH, TLA) Ver Zara; Zera."
+      ]
+    },
+    "ZERAÍAS": {
+      "word": "ZERAÍAS",
+      "definitions": [
+        "Nombre de persona que significa “Yahvéh ha amanecido”.\n\n 1. Sacerdote descendiente de Finees (1Cr 6:6; 1Cr 6:51; Esd 7:4).\n\n 2. Descendiente de Pahat-moab (“gobernante de Moab”) Esd 8:4. Ver Israías."
+      ]
+    },
+    "ZERAÍTAS": {
+      "word": "ZERAÍTAS",
+      "definitions": [
+        "Nombre de dos familias, una de la tribu de Simeón (Núm 26:13), la otra de la tribu de Judá (Núm 26:20; Jos 7:17), descendientes de hombres llamados Zera. Dos de los treinta “valientes” de David, Sibecai y Maharai, eran zeraítas (1Cr 27:11; 1Cr 27:13)."
+      ]
+    },
+    "ZERAJ": {
+      "word": "ZERAJ",
+      "definitions": [
+        "(RVC) Ver Zara; Zera."
+      ]
+    },
+    "ZERED": {
+      "word": "ZERED",
+      "definitions": [
+        "Nombre de río que quizás signifique “espina blanca”. Arroyo que desemboca en el extremo sur del Mar Muerto. Su longitud total es aprox. 60 km (38 millas) pero drena una extensa porción de tierra. Israel cruzó el Zered después de vagar por el desierto durante 38 años (Deu 2:13-14). Ver Palestina; Ríos y vías fluviales."
+      ]
+    },
+    "ZERERA": {
+      "word": "ZERERA",
+      "definitions": [
+        "Sitio sobre la ruta por la cual huyeron de Gedeón los madianitas derrotados (Jue 7:22); posiblemente una variante de Saretán (Jos 3:16; 1Re 4:12; 1Re 7:46) o de Seredata (2Cr 4:17). Ver Saretán."
+      ]
+    },
+    "ZERES": {
+      "word": "ZERES",
+      "definitions": [
+        "Nombre de persona que significa “cabeza despeinada, desgreñada”. Esposa y consejera de Amán (Est 5:10; Est 5:14; Est 6:13)."
+      ]
+    },
+    "ZERET": {
+      "word": "ZERET",
+      "definitions": [
+        "Nombre de persona que quizás signifique “esplendor”. Descendiente de Judá (1Cr 4:7)."
+      ]
+    },
+    "ZERI": {
+      "word": "ZERI",
+      "definitions": [
+        "Nombre de persona que significa “bálsamo”. Arpista levítico (1Cr 25:3). Zeri posiblemente sea una variante de copista de Izri (1Cr 25:11)."
+      ]
+    },
+    "ZEROR": {
+      "word": "ZEROR",
+      "definitions": [
+        "Nombre de persona que significa “atado, bolsa pequeña” o “partícula de piedra”. Antepasado de Saúl (1Sa 9:1)."
+      ]
+    },
+    "ZERÚA": {
+      "word": "ZERÚA",
+      "definitions": [
+        "Nombre de persona que significa “afligida” o “leprosa”. Madre del rey Jeroboam (1Re 11:26)."
+      ]
+    },
+    "ZETAM": {
+      "word": "ZETAM",
+      "definitions": [
+        "Nombre de persona que significa “olivo”. Levita que prestó servicio como tesorero del templo (1Cr 23:8; 1Cr 26:22)."
+      ]
+    },
+    "ZETÁN": {
+      "word": "ZETÁN",
+      "definitions": [
+        "Nombre de persona que significa “olivo” o “mercader de aceitunas”. Miembro de la tribu de Benjamín (1Cr 7:10). Ver Zetam."
+      ]
+    },
+    "ZETAR": {
+      "word": "ZETAR",
+      "definitions": [
+        "Nombre de persona que quizás signifique “asesino”, “reino” o “vencedor”. Uno de los siete eunucos que sirvieron al rey Asuero de Persia (Est 1:10)."
+      ]
+    },
+    "ZEUS": {
+      "word": "ZEUS",
+      "definitions": [
+        "Dios griego del cielo y líder del panteón, jefe de todos los dioses. Sus devotos creían que todos los elementos del clima estaban bajo su control. La adoración de Zeus fue importante en todo el Imperio Romano durante el siglo I. Bernabé fue confundido con Zeus (equivalente al dios romano Júpiter) por el pueblo de Listra después de que Pablo curara a un lisiado (Hch 14:8-12). Ver Dioses paganos; Grecia."
+      ]
+    },
+    "ZÍA": {
+      "word": "ZÍA",
+      "definitions": [
+        "Nombre de persona que significa “tembloroso”. Cabeza de familia de la tribu de Gad (1Cr 5:13)."
+      ]
+    },
+    "ZIBEÓN": {
+      "word": "ZIBEÓN",
+      "definitions": [
+        "Nombre de persona que significa “pequeña hiena”. Jefe horeo (Gén 36:29) y antepasado de una de las esposas de Esaú (Gén 36:2). Estableció un reinado entre los horeos y los edomitas (Gén 36:20; Gén 36:24; Gén 36:29; 1Cr 1:38; 1Cr 1:40)."
       ]
     },
     "ZICRI": {
       "word": "ZICRI",
       "definitions": [
-        "= «cuidadoso». (a) Levita de la familia de Coat, de la casa de Izhar (Éx. 6:21). (b) Benjamita, hijo de Simei (1 Cr. 8:19). (c) Benjamita, hijo de Sasac (1 Cr. 8:23). (d) Benjamita, hijo de Jeroham (1 Cr. 8:27). (e) Levita, hijo de Asaf (1 Cr. 9:15). Con toda probabilidad, este Zicri es el Zacur (misma raíz) de 1 Cr. 25:2, 10; Neh. 12:35. Figura bajo el nombre de Zabdi en Neh. 11:17. (f) Levita descendiente de Eliezer, el hijo de Moisés (1 Cr. 26:25). (g) Rubenita (1 Cr. 27:16). (h) Hombre de la tribu de Judá, padre de Amasías; este último era uno de los jefes del ejército de Josafat (2 Cr. 17:16). Es muy plausible que este Zicri fuera también el padre de Elisafat, que ayudó a derrocar a la reina Atalía (2 Cr. 23:1). (i) Efrainita del ejército de Peka; dio muerte a Maasías, príncipe de sangre real, y a dos de los principales oficiales del rey Acaz (2 Cr. 28:7). (j) Benjamita (Neh. 11:9). (k) Sacerdote, jefe de la casa patriarcal de Abías (Neh. 12:17)."
+        "Nombre de persona que significa “remembranza, consciente”.\n\n 1. Levita en tiempos de Moisés (Éxo 6:21).\n\n 2. Cabezas de tres familias de benjamitas (1Cr 8:19; 1Cr 8:23; 1Cr 8:27).\n\n 3. Levita (1Cr 9:15), quizás idéntico a Zacur (1Cr 25:2; 1Cr 25:10; Neh 12:35) y Zabdi (Neh 11:17).\n\n 4. Descendiente de Moisés que ayudó en casa de los tesoros de David (1Cr 26:25).\n\n 5. Rubenita (1Cr 27:16).\n\n 6. Padre de uno de los comandantes del ejército de Josafat (2Cr 17:16).\n\n 7. Padre de uno de los generales de Joiada (2Cr 23:1).\n\n 8. Guerrero efraimita que ayudó a Peka en la eliminación de los familiares y los consejeros de Acaz (2Cr 28:7).\n\n 9. Padre de un importante benjamita en la Jerusalén posexílica (Neh 11:9).\n\n 10. Sacerdote posexílico (Neh 12:17)."
       ]
     },
     "ZIF": {
       "word": "ZIF",
       "definitions": [
-        "I. Ciudad (1) Ciudad del extremo meridional de Judá (Jos. 15:24), identificada con ez-Zeifeh, al suroeste de Kurnûb. (2) Localidad del país montañoso de Judá (Jos. 15:55), cerca del desierto y de un bosque (1 S. 23:14, 15). Roboam lo fortificó (2 Cr. 11:8). Identificado con Tell Zîf, altura destacada, de 878 m. de altura, a 6 Km. al sur-sureste de Hebrón. (3) Hombre de Judá, de la casa de Jehaleel (1 Cr. 4:16). II. Mes, (Heb. «esplendor [de las flores abiertas]».) El segundo mes del año judío (1 R. 6:1, 37), aprox. el mes de mayo. El nombre cananeo de Zif fue sustituido, después del exilio, por el de Iyar, perteneciente al calendario de Nippur (Babilonia). (Véase TIEMPO.)"
+        "Nombre de persona y de lugar que quizás signifique “que fluye”.\n\n 1. Hijo de Maresa y nieto de Caleb (1Cr 2:42). El texto quizás signifique que Maresa fue el fundador de Zif, cerca de Hebrón.\n\n 2. Familia de la tribu de Judá (1Cr 4:16).\n\n 3. Ciudad en la zona montañosa de Judea (Jos 15:24), probablemente Tell Zif, unos 5 km (3 millas) al sudeste de Hebrón. Maresa probablemente haya fundado la ciudad (1Cr 2:42). David se escondió de Saúl en el desierto de los alrededores (1Sa 23:14-15; 1Sa 26:2). En dos ocasiones los residentes de Zif revelaron a Saúl los lugares donde se escondía David (1Sa 23:19; 1Sa 26:1). Roboam fortificó el emplazamiento (2Cr 11:8).\n\n 4. Ciudad en el Neguev (Jos 15:24), probablemente Khirbet ez-Zeifeh al sudeste de Kurnub.\n\n 5. Nombre del segundo mes del calendario (1Re 6:1). Ver Calendario."
+      ]
+    },
+    "ZIFA": {
+      "word": "ZIFA",
+      "definitions": [
+        "Nombre de clan que quizás signifique “que fluye”. Familia de la tribu de Judá (1Cr 4:16)."
+      ]
+    },
+    "ZIFEOS": {
+      "word": "ZIFEOS",
+      "definitions": [
+        "Ver Zif."
+      ]
+    },
+    "ZIFIÓN": {
+      "word": "ZIFIÓN",
+      "definitions": [
+        "Ver Zefón."
+      ]
+    },
+    "ZIFRÓN": {
+      "word": "ZIFRÓN",
+      "definitions": [
+        "Nombre geográfico que quizás signifique “fragancia”. Lugar en la frontera norte de Canaán, cerca de Hazar-enán (Núm 34:9). Puede ser la moderna Zaferani al sudeste de Restan entre Hamat y Homs."
+      ]
+    },
+    "ZIGURAT": {
+      "word": "ZIGURAT",
+      "definitions": [
+        "Construcción escalonada que normalmente termina en un templo, popularizada por los babilonios. El diseño consistía en la colocación de niveles de ladrillo más pequeños sobre niveles más grandes. Los zigurats que han sido excavados revelan técnicas de construcción avanzadas utilizadas por civilizaciones antiguas. La mayoría de los eruditos bíblicos creen que la torre de Babel era un zigurat (Gén 11:3-9)."
       ]
     },
     "ZIHA": {
       "word": "ZIHA",
       "definitions": [
-        "= «sequedad». 1. Fundador (o quizá solamente jefe) de una familia de netineos (servidores del templo), algunos de cuyos miembros volvieron del exilio (Esd. 2:43; Neh. 7:46). 2. Jefe de los netineos (Neh. 11:21) después de la vuelta del exilio."
+        "Nombre de persona egipcio que significa “el rostro de Horus (dios) ha hablado”.\n\n 1. Familia de sirvientes del templo (netineos) (Esd 2:43; Neh 7:46).\n\n 2. Supervisor de los sirvientes posexílicos del templo (Neh 11:21)."
+      ]
+    },
+    "ZIJÁ": {
+      "word": "ZIJÁ",
+      "definitions": [
+        "(NVI, PDT) Ver Ziha."
+      ]
+    },
+    "ZILA": {
+      "word": "ZILA",
+      "definitions": [
+        "Nombre de persona que significa “sombra”. Segunda esposa de Lamec y madre de Tubal-caín y Naama (Gén 4:19; Gén 4:22-23)."
+      ]
+    },
+    "ZILETAI": {
+      "word": "ZILETAI",
+      "definitions": [
+        "Nombre de persona, abreviatura de “Yahvéh es una sombra”, es decir, un protector.\n\n 1. Familia de benjamitas (1Cr 8:20).\n\n 2. Manasesita que se unió a David en Siclag (1Cr 12:20)."
+      ]
+    },
+    "ZILETAY": {
+      "word": "ZILETAY",
+      "definitions": [
+        "(NVI, PDT) Ver Ziletai."
+      ]
+    },
+    "ZILPA": {
+      "word": "ZILPA",
+      "definitions": [
+        "Nombre de persona que quizás signifique “de nariz corta”. Criada de Lea (Gén 29:24; Gén 46:18), entregada a Jacob como concubina (Gén 30:9; Gén 37:2); madre de Gad y Aser, a quienes se consideró hijos de Lea (Gén 30:10; Gén 30:12; Gén 35:26)."
+      ]
+    },
+    "ZIMA": {
+      "word": "ZIMA",
+      "definitions": [
+        "Nombre de persona, quizás una abreviatura de “Yahvéh ha considerado o resuelto”. Levita (1Cr 6:20; 1Cr 6:42; 2Cr 29:12)."
       ]
     },
     "ZIMRAM": {
       "word": "ZIMRAM",
       "definitions": [
-        "(prob. «antílope»). Hijo de Abraham y de Cetura (Gn. 25:2; 1 Cr. 1:32) y una tribu que descendió de él. Se ha propuesto su identificación con los zamareni, tribu árabe (cfr. Plinio, Hist. Nat. 6:32, 5)."
+        "Nombre de persona que significa “celebrado en canción, famoso” o “cabra montés”. Hijo de Abraham y Cetura, y antepasado de una tribu árabe (Gén 25:2; 1Cr 1:32), posiblemente identificada con Zabram, ubicada en algún lugar al oeste de La Meca sobre el Mar Rojo, y con Zimri (Jer 25:25)."
+      ]
+    },
+    "ZIMRÁN": {
+      "word": "ZIMRÁN",
+      "definitions": [
+        "(DHH, NVI, PDT, TLA) Ver Zimram."
       ]
     },
     "ZIMRI": {
       "word": "ZIMRI",
       "definitions": [
-        "= «perteneciente a un antílope» (a) Hijo de Zera y nieto de Judá (1 Cr. 2:6); en Jos. 7:1, 17, 18 lleva el nombre de Zabdi (b) Príncipe de la tribu de Simeón. Culpable de haberse entregado al desenfreno y a la idolatría, fue muerto (Nm. 25:14; 1 Mac. 2:26). (c) Benjamita, descendiente de Jonatán el hijo de Saúl (1 Cr. 8:36; 9:42). (d) Comandante de la mitad de los carros de guerra de Ela, rey de Israel. Asesinó a su soberano, aniquilando, según la profecía de Jehová, toda la casa de Baasa, y proclamándose rey de Tirsa. Zimri reinó sólo siete días. Israel proclamó rey a Omri, que marchó contra el usurpador y se apoderó de Tirsa. Al ver que su capital había sido tomada, Zimri incendió su palacio y se suicidó. Estos acontecimientos tuvieron lugar en el año 885 a.C. (1 R. 16:8-20). Se ha supuesto que Zimri era descendiente de Saúl (1 Cr. 8:36) y que por ello quiso apoderarse del trono. (e) Pueblo sólo conocido por Jer. 25:25; quizá descendiente de Zimram."
+        "Forma abreviada del nombre de persona que significa “Jah ayudó”, “Jah es mi protección” o “Jah es mi alabanza”.\n\n 1. Hijo de Zera y nieto de Judá (1Cr 2:6).\n\n 2. Un comandante de carros en Israel que usurpó el trono asesinando a Ela (1Re 16:9-10). Su reinado fue el más corto de todos los reyes de Israel: siete días (1Re 16:15). Zimri se suicidó incendiando su palacio después de que Omri sitiara Tirsa. Su nombre llegó a ser sinónimo de asesinos de reyes (2Re 9:31).\n\n 3. Líder de la tribu de Simeón asesinado por Finees por llevar a una mujer madianita al campamento en el desierto (Núm 25:14).\n\n 4. Descendiente de Saúl (1Cr 8:36).\n\n 5. Nombre complejo de una nación juzgada por Dios (Jer 25:25). Con frecuencia se considera una modificación del copista de la palabra hebrea para “cimerios”, o bien una designación en código para hablar de Elam, algo que se aclara con la mención inmediata de Elam. No se tiene conocimiento de una nación de nombre Zimri."
       ]
     },
-    "ZIN": {
-      "word": "ZIN",
+    "ZIN, DESIERTO DE": {
+      "word": "ZIN, DESIERTO DE",
       "definitions": [
-        "= «palmera enana». Desierto atravesado por los israelitas que se dirigían a Canaán. Zin estaba próximo al límite meridional de este país (Nm. 13:21). Cades-barnea se hallaba en este desierto (Nm. 20:1; 27:14; 33:36; Dt. 32:51). Constituía el límite de Edom al oeste y de Judá al sureste (Jos. 15:1-3). Formaba parte del desierto de Parán, al que tocaba cerca de Cades-barnea. No debe confundirse entre el desierto de Zin y el de Sin. Los términos heb. son muy diferentes."
+        "Área desértica y rocosa a través de la cual Israel pasó cuando se dirigía de Egipto a Canaán (Núm 20:1; Núm 27:14; Núm 33:36). El Desierto de Zin se extendía desde Cades-barnea hasta el Mar Muerto, formaba parte de la frontera sur de Canaán y más tarde de Judá (Núm 34:3-4; Jos 15:1; Jos 15:3). Casi la totalidad de la Tierra Prometida está comprendida “Desde el Desierto de Zin hasta Rehob” en Galilea (Núm 13:21). El Desierto de Zin debe distinguirse del Desierto de Sin, el cual abarca la meseta occidental del Sinaí. Ver Desierto; Neguev; Palestina; Sin, Desierto de."
+      ]
+    },
+    "ZINA": {
+      "word": "ZINA",
+      "definitions": [
+        "(1Cr 23:10, NVI). Ver Ziza."
+      ]
+    },
+    "ZIPOR": {
+      "word": "ZIPOR",
+      "definitions": [
+        "Nombre de persona que significa “(pequeña) ave”. Padre del rey Balac de Moab (Núm 22:2; Núm 22:4; Núm 22:10)."
       ]
     },
     "ZIZA": {
       "word": "ZIZA",
       "definitions": [
-        "= «abundancia, fertilidad». (a) Simeonita, descendiente de Semaías (1 Cr. 4:37). (b) Hijo de Roboam y de Maaca, y hermano del rey Abías (2 Cr. 11:20)."
-      ]
-    },
-    "ZOAR": {
-      "word": "ZOAR",
-      "definitions": [
-        "= «pequeñez». Una de las ciudades de la llanura, y según parece la más pequeña de las cinco (Gn. 19:20, 22). Desde las alturas del Nebo se podía divisar la llanura hasta Zoar (Dt. 34:3). El nombre antiguo de Zoar había sido Bela. Uno de sus reyes estuvo entre los cautivos de Quedorlaomer (Gn. 13:10; 14:2, 8). Cuando cayó el juicio sobre Sodoma y Gomorra, Zoar fue perdonada a petición de Lot, que se refugió en ella (Gn. 19:20-23). Más allá de la ciudad se hallaba un monte y una cueva, donde se instalaron Lot y sus dos hijas (Gn. 19:30). Zoar existía aún en tiempos de Isaías y de Jeremías (Is. 15:5; Jer. 48:34; cfr. Gn. 19:37). Moab y Zoar son mencionadas juntas, lo que permite pensar que Zoar se hallaba en la ribera oriental del mar Muerto. En la época de los Macabeos, Zoar formaba parte de un reino árabe cuya capital era Petra (Ant. 13:15, 4; 14:1, 4). Según Guerras 4:8, 4, Zoar se hallaba en el extremo meridional del mar Muerto. En la Edad Media era un punto importante en la ruta de Elat a Jerusalén. Identificación: a unos 3 Km. del extremo meridional del mar, en las ruinas de el-Keryeh, cerca del lugar donde el wadi el'Ahsy comienza a atravesar los montes de Moab para llegar a la llanura. Es allí que estuvo la última colonia de Zoar. (Véanse SODOMA, GOMORRA.)"
-      ]
-    },
-    "ZOFAR": {
-      "word": "ZOFAR",
-      "definitions": [
-        "= «el que gorjea». Uno de los amigos de Job, de Naama (véase NAAMA) (Jb. 2:11; 11:1; 20:1; 42:9). (Véase JOB.)"
-      ]
-    },
-    "ZOFIM": {
-      "word": "ZOFIM",
-      "definitions": [
-        "= «centinelas». Campo de la cumbre del Pisga, desde donde Balaam pudo contemplar una parte del campamento de los israelitas en Sitim (Nm. 23:14). Identificado por Conder con Tal'at es-Sufa, en el valle que separa la cumbre suroriental del Pisga de Luhit."
-      ]
-    },
-    "ZOHAR": {
-      "word": "ZOHAR",
-      "definitions": [
-        "(a) Padre de Efrén heteo (Gn. 33:8.) (b) Hijo de Simeón (Gn. 46:10). Llamado Zera en Nm. 26:13. (Véase ZERA, c.)"
-      ]
-    },
-    "ZOHELET": {
-      "word": "ZOHELET",
-      "definitions": [
-        "= «la serpiente», o «reptante». Peña cercana a En-rogel (1 R. 1:9). La cornisa rocosa sobre la que se halla el pueblo de Silwan lleva el nombre ár. de Zehwele o Zahweileh, análogo a una forma alterada de Zohelet. Fue en esta peña de Zohelet donde Adonías celebró una fiesta con sus partidarios cuando intentó usurpar el trono (1 R. 1:9)."
-      ]
-    },
-    "ZOMZOMEOS": {
-      "word": "ZOMZOMEOS",
-      "definitions": [
-        "Véase ZUZITAS"
-      ]
-    },
-    "ZORA": {
-      "word": "ZORA",
-      "definitions": [
-        "Ciudad de la llanura de Judá (Jos. 15:33), ocupada por los danitas (Jos. 19:41). En esta población vivía Manoa, el padre de Sansón (Jue. 13:2). Sansón fue enterrado cerca de allí (Jue. 16:31). Algunos de los danitas espías de Lais y de sus conquistadores eran de Zora (Jue. 18:2, 8, 11). Roboam la fortificó (2 Cr. 11:10), y fue repoblada después del exilio (Neh. 11:29). Su emplazamiento es Sar'a, en la zona norte del valle de Sorec (wadi es-Sarãr), a 22 Km. al oeste de Jerusalén."
-      ]
-    },
-    "ZOROBABEL": {
-      "word": "ZOROBABEL",
-      "definitions": [
-        "(transcripción hebrea del ac. «zerû Bãbili», «vástago de Babilonia»). Hijo de Pedaías, poseía el derecho al trono de Judá (1 Cr. 3:17-19). Los otros textos lo llaman hijo de Salatiel (o Sealtiel). Salatiel era hermano de Pedaías (Esd. 3:2, 8; Neh. 12:1; Hag. 1:1, 12, 14; 2:2, 23; Mt. 1:12, 13; Lc. 3:27). Salatiel no dejó hijos. Caben dos alternativas: (a) Su sobrino, heredero legal, pasó a ser llamado hijo de Salatiel (Éx. 2:10). (b) Pedaías se casó con la viuda de Salatiel; el primer nacido de esta unión sería considerado como hijo del difunto, en base a la Ley (Dt. 25:5-10; véase MATRIMONIO, f). Después de la conquista de Babilonia, Ciro autorizó a los judíos a que volvieran a su país, y designó a Zorobabel como gobernador de la colonia. Este príncipe de Judá se llamaba entonces Sesbasar, nombre que indudablemente le había sido dado por los babilonios. Es posible que lo usara cuando representaba a Ciro (Esd. 1:8, 11; 5:14). Conducidos por Zorobabel, por el sumo sacerdote Josué, y por otros príncipes (Esd. 2:1-64; Neh. 7:5-7; 12:1-9), los judíos llegaron a Jerusalén en el año 538 a.C. Josué, el jefe religioso, y Zorobabel, el jefe político, erigieron a Jehová el altar sobre su antigua basa, y restablecieron el culto (Esd. 3:1-9). Sesbasar, gobernador delegado por Ciro, echó los cimientos del Templo (Esd. 1:2; 5:16; 3:6, 10-13). Los adversarios de los judíos se dirigieron a los sucesivos reyes de Persia y consiguieron hacer que cesaran las obras hasta el año 520 a.C. (segundo año de Darío Histaspes) (Esd. 4). En este año, los profetas Hageo y Zacarías exhortaron a Josué y a Zorobabel, gobernador bajo Darío, a reemprender la reconstrucción del Templo, que quedó terminado al inicio de la primavera del año 515 a.C. (Esd. 6:14, 15; Hag. 1 y 2; Zac. 4). Este Templo fue frecuentemente llamado Templo de Zorobabel. Este príncipe gobernó Judá por lo menos hasta el año 515 a.C. Zorobabel era un representante de la línea davídica (Hag. 2:20-23) y figura entre los antepasados directos de Cristo (Mt. 1:12, 13; Lc. 3:27)."
-      ]
-    },
-    "ZORRA": {
-      "word": "ZORRA",
-      "definitions": [
-        "Animal que se cava madrigueras (Mt. 8:20) y que también vive en ruinas solitarias (Lm. 5:18); es astuto y celoso de su seguridad (Ez. 13:4; Lc. 13:32). Tristram cita dos especies de zorras en Palestina, la egipcia («Vulpes nilotica») y la leonada («Vulpes flavescens»). El primero abunda en el centro y sur de Palestina y al este del Jordán; el segundo, de un tamaño algo mayor, y que quizá no sea más que una variedad de la zorra común («Vulpes vulgaris»), vive ea las zonas boscosas del país. Parece que bajo el término general de zorra, «shû'ãl», los hebreos incluían al chacal, que pertenece a la familia de los cánidos, aunque tenían un nombre específico para él (véase CHACAL). En Jue. 15:4 parece que la referencia sea a chacales, por cuanto estos animales abundaban en la llanura que ocupaban los filisteos; por la noche merodean en manadas y pasan el día escondidos en cualquier cueva. Por ello, pueden ser atrapados fácilmente, en tanto que la zorra, animal solitario, es de difícil captura. El chacal devora los cadáveres en descomposición, lo que apenas si hace la zona. En Cnt. 2:15 puede tratarse tanto del chacal como de la zorra, porque a ambos animales les gustan las uvas."
+        "Nombre de persona que significa “reluciente” o “brillo”.\n\n 1. Hijo de Sifi, parte de la expansión de la tribu de Simeón dentro de Gedor (1Cr 4:37).\n\n2. Hijo de Simei, un levita de Gersón, según evidencia textual y traducciones antiguas (1Cr 23:10). En la RVR1960 aparece como “Zina” siguiendo el texto hebreo.\n\n 3. Uno de los hijos de Roboam por parte de Maaca (2Cr 11:20)."
       ]
     },
     "ZOÁN": {
       "word": "ZOÁN",
       "definitions": [
-        "(heb. «Sõ'an», del egip. «D'n.t»). Ciudad egipcia al este del Delta, sobre la rama tanítica del Nilo, cerca del 31° de latitud norte. Construida siete años después de Hebrón, que ya existía en tiempos de Abraham (Nm. 13:22), Zoán existía ya en la época de la VI dinastía. Los primeros reyes de la XII dinastía hicieron de ella su capital para detener las invasiones provenientes del este. Los hicsos fortificaron Zoán, que vino también a ser su capital, dándole el nombre de Avaris (véase HICSOS). Después de la expulsión de los hicsos, Zoán fue descuidada, y luego restaurada por Seti I. Avaris, conocida más tarde como Tanis, fue el centro del culto al dios egipcio Seth. El sucesor de Seti I, Ramsés II, prosiguió la restauración de Zoán, estableciendo su residencia muy cerca de ella, en Per-Re'emasese, es decir, la ciudad de Ramsés. (Véase RAMESÉS.) Moisés y el faraón del Éxodo se encontraron en Zoán (Sal. 78:12, 43). Entre la época de Isaías y la de Ezequiel, los asirios se apoderaron de Zoán (Is. 19:11, 13; cfr. 30:4; Ez. 30:14). Los griegos le dieron el nombre de Tanis. Para detalles cronológicos, véase RAMESÉS."
+        "Nombre hebreo para la ciudad egipcia de Tanis, ubicada en San el-Hagar en el brazo tanítico del Nilo. Llegó a ser capital de Egipto alrededor del 1070 a.C. bajo Esmendes I, y permaneció como tal hasta el 655 a.C. Núm 13:22 hace notar que Hebrón era 7 años más antigua que Zoán, pero se desconoce la fecha exacta de construcción de ambas ciudades. Los profetas utilizaron Zoán para referirse al gobierno egipcio y sus actividades (Isa 19:11; Isa 19:13; Isa 30:4; Eze 30:14). El salmista alabó a Dios por los milagros del éxodo cerca de ese lugar (Sal 78:12; Sal 78:43)."
+      ]
+    },
+    "ZOAR": {
+      "word": "ZOAR",
+      "definitions": [
+        "Nombre geográfico que significa “pequeño”. Una de las ciudades del Valle de Sidim, también conocida como Bela (Gén 14:2). Fue atacada por Quedorlaomer, pero aparentemente fue liberada por Abraham (Gén 14:17). Lot huyó a Zoar con su familia justo antes de que Dios destruyera Sodoma y Gomorra (Gén 19:23-24). Tuvo miedo de permanecer allí con sus dos hijas, por lo que se fue a una montaña por encima de la ciudad (Gén 19:30). Isaías profetizó que los habitantes de Moab huirían a Zoar cuando llegara la destrucción sobre la primera (Isa 15:5, comp. Jer 48:34). Aparentemente fue una ciudad moabita, quizás Safi sobre el Arroyo de Zered."
+      ]
+    },
+    "ZOBEBA": {
+      "word": "ZOBEBA",
+      "definitions": [
+        "Nombre de persona de significado incierto. Descendiente de Judá (1Cr 4:8)."
+      ]
+    },
+    "ZOFA": {
+      "word": "ZOFA",
+      "definitions": [
+        "Nombre de persona que quizás signifique “jarra”. Familia de la tribu de Aser (1Cr 7:35-36)."
+      ]
+    },
+    "ZOFAI": {
+      "word": "ZOFAI",
+      "definitions": [
+        "Nombre de persona que quizás signifique “panal”. Hijo de Elcana (1Cr 6:26). Ver Zuf."
+      ]
+    },
+    "ZOFAR": {
+      "word": "ZOFAR",
+      "definitions": [
+        "Nombre de persona de significado incierto. Uno de los tres amigos de Job en su miseria (Job 2:11). Zofar probablemente fuera el más joven de los tres ya que se lo menciona en último lugar. De los tres, fue el crítico más severo y fue más filosófico en su crítica a Job. Sus palabras fueron más crudas y su dogmatismo más enfático. Aunque existía un lugar llamado Naama en Judá (Jos 15:41), no se sabe con certeza si era el hogar de Zofar. Se desconoce la ubicación exacta de la ciudad."
+      ]
+    },
+    "ZOFAY": {
+      "word": "ZOFAY",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Zofai."
+      ]
+    },
+    "ZOFIM": {
+      "word": "ZOFIM",
+      "definitions": [
+        "Nombre geográfico que significa “vigías” o sustantivo común que significa “el campo de los vigías” o “puesto de observación”. Lugar alto en “la cumbre de Pisga”, cerca del extremo noreste del Mar Muerto. Balac llevó a Baalam allí para maldecir a los israelitas (Núm 23:14)."
+      ]
+    },
+    "ZOFÍN": {
+      "word": "ZOFÍN",
+      "definitions": [
+        "(NVI, PDT) Ver Zofim."
+      ]
+    },
+    "ZOHAR": {
+      "word": "ZOHAR",
+      "definitions": [
+        "Nombre de persona que quizás signifique “testigo”.\n\n 1. Heteo (Gén 23:8; Gén 25:9).\n\n 2. Hijo de Simeón (Gén 46:10; Éxo 6:15), también llamado Zera (Núm 26:13; 1Cr 4:24).\n\n 3. Descendiente de Judá según la corrección marginal tradicional (qere) en 1Cr 4:24. El texto hebreo dice Izhar."
+      ]
+    },
+    "ZOHELET": {
+      "word": "ZOHELET",
+      "definitions": [
+        "Nombre geográfico que significa “el que se arrastra”, “corredizo” o “piedra de la serpiente”. Peña sacrificial donde Adonías ofreció sacrificio en razón de su inminente coronación como rey (1Re 1:9). Este lugar estaba cerca de Rogel, un manantial o pozo cerca de Jerusalén donde se encuentran el Torrente de Cedrón y el Valle de Hinom. La aspiración de Adonías al trono duró poco. David nombró a Salomón como su sucesor (1Re 1:29-30)."
+      ]
+    },
+    "ZOHET": {
+      "word": "ZOHET",
+      "definitions": [
+        "Nombre de persona de significado incierto. Hijo de Isi (1Cr 4:20) y cabeza de una de las familias de Judá."
+      ]
+    },
+    "ZOJAR": {
+      "word": "ZOJAR",
+      "definitions": [
+        "(NVI, PDT) Ver Zohar."
+      ]
+    },
+    "ZOJÉLET": {
+      "word": "ZOJÉLET",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Zohelet."
+      ]
+    },
+    "ZOJET": {
+      "word": "ZOJET",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Zohet."
+      ]
+    },
+    "ZOMZOMEOS": {
+      "word": "ZOMZOMEOS",
+      "definitions": [
+        "Nombre que los amonitas dieron a los refaítas. Vivieron al este del Río Jordán hasta que los amonitas los expulsaron (Deu 2:20). Ver Refaítas."
+      ]
+    },
+    "ZORA": {
+      "word": "ZORA",
+      "definitions": [
+        "Nombre geográfico que significa “avispas” o “avispones”. Ciudad de Dan (Jos 19:41) unos 21 km (13 millas) al oeste de Jerusalén en el límite con Judá (Jos 15:33). Hogar de Manoa, el padre de Sansón (Jue 13:2). Roboam, rey de Judá, fortificó la ciudad de Zora para resistir en caso de guerra (2Cr 11:5-12). Es la actual Sarah."
+      ]
+    },
+    "ZORAÍTAS": {
+      "word": "ZORAÍTAS",
+      "definitions": [
+        "Pueblo de Zora (1Cr 2:54). Ver Zora."
+      ]
+    },
+    "ZORATITAS": {
+      "word": "ZORATITAS",
+      "definitions": [
+        "Descendientes de Sobal que vivían en Zora (1Cr 2:52-53). Ver Zora."
+      ]
+    },
+    "ZOROASTRO": {
+      "word": "ZOROASTRO",
+      "definitions": [
+        "Antiguo profeta iraní que le dio nombre a la religión conocida como “zoroastrismo”. Ver Persia."
+      ]
+    },
+    "ZOROBABEL": {
+      "word": "ZOROBABEL",
+      "definitions": [
+        "Nombre de persona que significa “descendiente de Babel”. Nieto del rey Joaquín (llevado a Babilonia por Nabucodonosor en el primer exilio en el 597 a.C.; 2Re 24:10-17) e hijo de Salatiel (Esd 3:2), segundo hijo de Joaquín (1Cr 3:16-17). Se lo menciona en Esd 2:2 entre los líderes que regresaron del exilio. La lista en Esd 2:1-67 (comp. Neh 7:6-73) probablemente mencione personas que regresaron en el año 539, el primer año del reinado de Ciro el Grande, rey del Imperio Persa (Esd 1:1), o entre el año 539 y el 529, pese a que muchos eruditos sostienen que la lista pertenece a un segundo regreso no mencionado, liderado por Zorobabel en 521/520.\n\nSegún Esd 3:1-13, Zorobabel y Jesúa (o Josué, el sumo sacerdote) reconstruyeron el altar, y en su segundo año (¿538?), pusieron los cimientos del templo, pero su trabajo fue interrumpido por la oposición de quienes habían permanecido en Palestina durante el exilio (Esd 4:1-6; Esd 4:24). Darío (emperador persa desde 522 a 486 a.C.) otorgó permiso a los judíos para continuar la reconstrucción del templo (Esd 6:1-12). Siguiendo los consejos de Hageo (Hag 1:1; Hag 1:12-15; Hag 2:1; Hag 2:20) y de Zacarías (Zac 4:6-10), Zorobabel, ahora gobernador (Hag 1:1) en lugar de Sesbasar (Esd 5:14), retoma la tarea (Esd 5:1-2) y la completa en el 515 a.C.\n\nSin embargo, Zorobabel deja de ser mencionado. Era un príncipe descendiente de David, por lo cual es posible que los judíos intentaran coronarlo durante la guerra civil que acompañó el ascenso de Darío como emperador (522/521). Es posible que Zac 6:9-14 refleje el deseo de coronar a Zorobabel, pero su destino es incierto. Ver Babilonia; Israel, Tierra de; Zacarías, Libro de.\n\nPaul L. Redditt"
+      ]
+    },
+    "ZUAR": {
+      "word": "ZUAR",
+      "definitions": [
+        "Nombre de persona que significa “joven”o “pequeño”. Miembro de la tribu de Isacar (Núm 1:8; Núm 7:18; Núm 7:23; Núm 10:15)."
+      ]
+    },
+    "ZUF": {
+      "word": "ZUF",
+      "definitions": [
+        "Nombre de persona y de lugar que quizás signifique “panal”.\n\n 1. Antepasado levítico de Elcana y Samuel (1Sa 1:1; 1Cr 6:16; 1Cr 6:26; 1Cr 6:35) de Efraín. En otro pasaje se lo llama levita (ver 1Cr 6:16; 1Cr 6:26; 1Cr 6:35). Efraín puede ser una referencia geográfica más bien que tribal. Otros aducen que fuentes tardías incorporaron a Samuel a la tribu de Leví porque desempeñaba tareas sacerdotales.\n\n 2. “Tierra de Zuf” donde Saúl buscaba asnos (1Sa 9:5). Se desconoce su ubicación exacta."
       ]
     },
     "ZUR": {
       "word": "ZUR",
       "definitions": [
-        "= «peña». (a) Príncipe madianita, aliado o vasallo de Sehón y padre de la mujer llamada Cozbi (Nm. 25:15). Habiendo sido seducidos los israelitas por los madianitas a un desenfreno orgiástico idolátrico, Moisés ordenó la exterminación de Madián. Zur murió en esta guerra (Nm. 25:15, 18; 31:8; Jos. 13:21). (b) Benjamita, descendiente de Jehiel (1 Cr. 8:30; 9:35)."
+        "Nombre de persona que significa “roca”.\n\n 1. Jefe tribal madianita (Núm 25:15) cuya hija, Cozbi, fue asesinada con un hombre israelita por Finees. Zur fue muerto más tarde en una batalla que libró Moisés (Núm 31:7-8).\n\n 2. Tío del rey Saúl (1Cr 8:30; 1Cr 9:36)."
       ]
     },
-    "ZURRÓN": {
-      "word": "ZURRÓN",
+    "ZURIEL": {
+      "word": "ZURIEL",
       "definitions": [
-        "Bolsa que servía para transportar los víveres o artículos de viaje (Mt. 10:10). El zurrón palestino era una piel de cabra entera curtida; los pastores y campesinos la llevaban colgada de la espalda mediante una correa. De un zurrón así sacó David la piedra con la que abatió a Goliat (1 S. 17:40-49)."
+        "Nombre de persona que quizás signifique “Dios es una roca”. Hijo de Abihail y cabeza de la familia de Merari de los levitas (Núm 3:35)."
+      ]
+    },
+    "ZURISADAI": {
+      "word": "ZURISADAI",
+      "definitions": [
+        "Nombre de persona que significa “shaddai es una roca”. Padre de Selumiel, un líder de la tribu de Simeón en la peregrinación por el desierto (Núm 1:6)."
+      ]
+    },
+    "ZURISADAY": {
+      "word": "ZURISADAY",
+      "definitions": [
+        "(NVI, PDT) Ver Zurisadai."
       ]
     },
     "ZUZITAS": {
       "word": "ZUZITAS",
       "definitions": [
-        "Raza de gigantes que vivían en el distrito posteriormente tomado por los moabitas. La identificación de los zuzitas de Gn. 14:5, derrotados por Quedorlaomer, con los zomzomeos de Dt. 2:20 se ve apoyada por un targum de Gn. 14 de los rollos del mar Muerto. Debilitados por la anterior campaña, los moabitas los exterminaron después, ocupando su territorio. Estos términos son de significado incierto. Según Gesenio, «zuzitas» quizá se refiera a la fertilidad de su país, y el segundo puede significar naciones ruidosas. Otros hebraístas y eruditos han hecho otras suposiciones."
+        "Nombre de nación de significado incierto. Pueblo que vivió en Ham y fue derrotado por Quedorlaomer (Gén 14:5). Aparentemente se los llama zomzomeos en Deu 2:20."
       ]
     }
   }

@@ -1,25 +1,559 @@
 {
   "letter": "y",
-  "totalWords": 3,
+  "totalWords": 92,
   "data": {
-    "YARMUK": {
-      "word": "YARMUK",
-      "definitions": [
-        "Afluente del río Jordán, en la ribera oriental, cerca del Mar de Galilea."
-      ]
-    },
     "YELMO": {
       "word": "YELMO",
       "definitions": [
         "Casco que en los tiempos bíblicos usaban comúnmente los SOLDADOS para protegerse la cabeza. Antiguamente se hacían de cuero, pero más tarde de hierro y bronce (1 S 17.5, 38; Jer 46.4; Ez 23.23, 24; 27.10; 1 Mac 6.35; Ef 6.17). Isaías usa el yelmo en sentido figurado (59.17). Pablo también usa esta figura (Ef 6.17; 1 Ts 5.8) al hacer su parangón entre el cristiano y el soldado.",
-        "Para la protección de la cabeza en la batalla. Se hacían de cuero, hierro, bronce (1 Mac. 6:35). De ellos se servían los egipcios, filisteos, asirios, babilonios y persas (1 S. 17:5; Jer. 46:4; Ez. 23:23, 24; 27:10). Ya en la época de Saúl (1 S. 17:5, 38), israelitas y filisteos llevaban ocasionalmente cascos de bronce. Uzías equipó a sus tropas con cascos y cotas de malla (2 Cr. 26:14), En la armadura del cristiano, el yelmo es la «salvación» (Ef. 6:17). Son los que tienen la consciencia de la salvación los que pueden tomar parte en la batalla contra los espíritus de maldad en los lugares celestes."
+        "Ver Armas y armaduras."
       ]
     },
     "YUGO": {
       "word": "YUGO",
       "definitions": [
-        "Madero que une dos animales, generalmente BUEYES, para el desarrollo de faenas especiales. En la Biblia el yelmo es símbolo de esclavitud (Dt 28.48; Gn 27.40; 1 Ti 6.1) y de sometimiento voluntario y permanente a una disciplina justa (Lm 3.27). Moisés prohibió la unión bajo yugo de animales de diferentes especies (Lv 19.19; Dt 22.10). Pensando en el yugo como símbolo de la unión, Pablo aconseja a los creyentes evitar el yugo nupcial, y por ende toda unión íntima, con incrédulos (2 Co 6.14; cf. Dt 22.10). Cristo establece que su yugo es fácil (Mt 11.28-30), en comparación con el yugo de la Ley (Gl 5.1) y el pecado (Ro 7.23-25), de los cuales Él nos liberta.",
-        "Pieza de madera que se ajustaba, por su parte interior, generalmente curvada, a la cabeza o a la nuca de una pareja de bueyes para uncirlos a un carruaje o a un arado (Nm. 19:2). En heb. y gr. el término «yugo» designaba con frecuencia a un par de animales así unidos (1 R. 19:19, cast. «yuntas»). Se emplea como símbolo de servidumbre y esclavitud (Jer. 28:2-14; 1 Ti. 6:1), y también de la pesada servidumbre de hallarse bajo la ley (Hch. 15:10; Gá. 5:1). El Señor Jesús invita al creyente a tomar sobre sí Su yugo, y a aprender de Él; esto es, a abandonar su propia voluntad, a someterse a la voluntad de Dios, contentándose con un puesto de humildad; así será cómo hallará descanso para su alma. Su yugo es fácil, y Su carga ligera (Mt. 11:29, 30)."
+        "Madero que une dos animales, generalmente BUEYES, para el desarrollo de faenas especiales. En la Biblia el yelmo es símbolo de esclavitud (Dt 28.48; Gn 27.40; 1 Ti 6.1) y de sometimiento voluntario y permanente a una disciplina justa (Lm 3.27). Moisés prohibió la unión bajo yugo de animales de diferentes especies (Lv 19.19; Dt 22.10). Pensando en el yugo como símbolo de la unión, Pablo aconseja a los creyentes evitar el yugo nupcial, y por ende toda unión íntima, con incrédulos (2 Co 6.14; cf. Dt 22.10). Cristo establece que su yugo es fácil (Mt 11.28–30), en comparación con el yugo de la Ley (Gl 5.1) y el pecado (Ro 7.23–25), de los cuales Él nos liberta.",
+        "Estructura de madera que se coloca sobre el lomo de los animales de tiro para hacer que tiren en forma conjunta. Los yugos simples constaban de una barra con dos lazos de soga o cuero que se colocaba alrededor del cuello de los animales. Los yugos más elaborados tenían varas conectadas en el medio con las que los animales tiraban los arados u otros implementos. La palabra se utiliza con mucha frecuencia para hablar de esclavitud, sometimiento y dificultades (1Re 12:4; Jer 27:8). Los usos positivos incluyen el yugo de Cristo (Mat 11:29-30) y la naturaleza de unidad de la obra de la iglesia (Flp 4:3)."
+      ]
+    },
+    "YACÁN": {
+      "word": "YACÁN",
+      "definitions": [
+        "(NTV) Ver Jaacán."
+      ]
+    },
+    "YADA": {
+      "word": "YADA",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jada."
+      ]
+    },
+    "YADAY": {
+      "word": "YADAY",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jahdai."
+      ]
+    },
+    "YADIEL": {
+      "word": "YADIEL",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jahdiel."
+      ]
+    },
+    "YADÓ": {
+      "word": "YADÓ",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jahdo."
+      ]
+    },
+    "YADÓN": {
+      "word": "YADÓN",
+      "definitions": [
+        "(PDT, RVC) Ver Jadón."
+      ]
+    },
+    "YAEL": {
+      "word": "YAEL",
+      "definitions": [
+        "(RVC) Ver Jael."
+      ]
+    },
+    "YAHÁS": {
+      "word": "YAHÁS",
+      "definitions": [
+        "(RVC) Ver Jahaza."
+      ]
+    },
+    "YAHAZA": {
+      "word": "YAHAZA",
+      "definitions": [
+        "(NVI, PDT) Ver Jahaza."
+      ]
+    },
+    "YAHVEH-JIREH": {
+      "word": "YAHVEH-JIREH",
+      "definitions": [
+        "(NTV) Ver Jehová-Jireh."
+      ]
+    },
+    "YAHVÉH-JIREH": {
+      "word": "YAHVÉH-JIREH",
+      "definitions": [
+        "Ver Dios, Nombres de."
+      ]
+    },
+    "YAHVÉH-MEKADDESH": {
+      "word": "YAHVÉH-MEKADDESH",
+      "definitions": [
+        "Ver Dios, Nombres de."
+      ]
+    },
+    "YAHVEH-NISI": {
+      "word": "YAHVEH-NISI",
+      "definitions": [
+        "(NTV) Ver Jehová-nisi."
+      ]
+    },
+    "YAHVÉH-NISSI": {
+      "word": "YAHVÉH-NISSI",
+      "definitions": [
+        "Ver Dios, Nombres de."
+      ]
+    },
+    "YAHVÉH-RHOI": {
+      "word": "YAHVÉH-RHOI",
+      "definitions": [
+        "Ver Dios, Nombres de."
+      ]
+    },
+    "YAHVÉH-SABOAT": {
+      "word": "YAHVÉH-SABOAT",
+      "definitions": [
+        "Ver Dios, Nombres de."
+      ]
+    },
+    "YAHVEH-SHALOM": {
+      "word": "YAHVEH-SHALOM",
+      "definitions": [
+        "(NTV) Ver Jehová-salom."
+      ]
+    },
+    "YAHVÉH-SHALOM": {
+      "word": "YAHVÉH-SHALOM",
+      "definitions": [
+        "Ver Dios, Nombres de."
+      ]
+    },
+    "YAHVÉH-SHAMMAH": {
+      "word": "YAHVÉH-SHAMMAH",
+      "definitions": [
+        "Ver Dios, Nombres de."
+      ]
+    },
+    "YAHVÉH-TSIDKENU": {
+      "word": "YAHVÉH-TSIDKENU",
+      "definitions": [
+        "Ver Dios, Nombres de."
+      ]
+    },
+    "YAÍR": {
+      "word": "YAÍR",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jair."
+      ]
+    },
+    "YAIRITA": {
+      "word": "YAIRITA",
+      "definitions": [
+        "(NVI, PDT) Ver Jaireo."
+      ]
+    },
+    "YAJAT": {
+      "word": "YAJAT",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jahat."
+      ]
+    },
+    "YAJELEL": {
+      "word": "YAJELEL",
+      "definitions": [
+        "(RVC) Ver Jahleel."
+      ]
+    },
+    "YAJEMAY": {
+      "word": "YAJEMAY",
+      "definitions": [
+        "(RVC) Ver Jahmai."
+      ]
+    },
+    "YAJESEL": {
+      "word": "YAJESEL",
+      "definitions": [
+        "(RVC) Ver Jahzeel."
+      ]
+    },
+    "YALEL": {
+      "word": "YALEL",
+      "definitions": [
+        "(NVI, PDT) Ver Jahleel."
+      ]
+    },
+    "YALELEL": {
+      "word": "YALELEL",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jehalelel."
+      ]
+    },
+    "YALELITAS": {
+      "word": "YALELITAS",
+      "definitions": [
+        "(NVI, PDT) Ver Jahleelita."
+      ]
+    },
+    "YAMAY": {
+      "word": "YAMAY",
+      "definitions": [
+        "(NVI, PDT) Ver Jahmai."
+      ]
+    },
+    "YANOJA": {
+      "word": "YANOJA",
+      "definitions": [
+        "(RVC) Ver Janoa."
+      ]
+    },
+    "YANÚN": {
+      "word": "YANÚN",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Janum."
+      ]
+    },
+    "YAQUÍN": {
+      "word": "YAQUÍN",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jaquim."
+      ]
+    },
+    "YARÉ OREGUÍN": {
+      "word": "YARÉ OREGUÍN",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jair 4)."
+      ]
+    },
+    "YARED": {
+      "word": "YARED",
+      "definitions": [
+        "(RVC) Ver Jered."
+      ]
+    },
+    "YARJÁ": {
+      "word": "YARJÁ",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jarha."
+      ]
+    },
+    "YAROA": {
+      "word": "YAROA",
+      "definitions": [
+        "(RVC) Ver Jaroa."
+      ]
+    },
+    "YASOBEÁN": {
+      "word": "YASOBEÁN",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jasobeam."
+      ]
+    },
+    "YASUB": {
+      "word": "YASUB",
+      "definitions": [
+        "(NVI, PDT) Ver Jasub."
+      ]
+    },
+    "YATRAY": {
+      "word": "YATRAY",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jeatrai."
+      ]
+    },
+    "YAZEL": {
+      "word": "YAZEL",
+      "definitions": [
+        "(NVI, PDT) Ver Jahzeel."
+      ]
+    },
+    "YAZELITA": {
+      "word": "YAZELITA",
+      "definitions": [
+        "(NVI, PDT) Ver Jahzeelita."
+      ]
+    },
+    "YAZERA": {
+      "word": "YAZERA",
+      "definitions": [
+        "(RVC) Ver Jazera."
+      ]
+    },
+    "YEARÍN": {
+      "word": "YEARÍN",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jearim."
+      ]
+    },
+    "YECABSEL": {
+      "word": "YECABSEL",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jecabseel."
+      ]
+    },
+    "YEDIDÁ": {
+      "word": "YEDIDÁ",
+      "definitions": [
+        "(RVC) Ver Jedida."
+      ]
+    },
+    "YEFTAJEL": {
+      "word": "YEFTAJEL",
+      "definitions": [
+        "(RVC) Ver Jefte-el."
+      ]
+    },
+    "YEFUNE": {
+      "word": "YEFUNE",
+      "definitions": [
+        "(RVC) Ver Jefone."
+      ]
+    },
+    "YEGAR SADUTA": {
+      "word": "YEGAR SADUTA",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jegarsahadutha."
+      ]
+    },
+    "YEGUIEL": {
+      "word": "YEGUIEL",
+      "definitions": [
+        "(RVC) Ver Jeiel (1)."
+      ]
+    },
+    "YEHUBÁ": {
+      "word": "YEHUBÁ",
+      "definitions": [
+        "(NVI, PDT) Ver Jehúba."
+      ]
+    },
+    "YEHUDI": {
+      "word": "YEHUDI",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jehudí."
+      ]
+    },
+    "YEJEDÍAS": {
+      "word": "YEJEDÍAS",
+      "definitions": [
+        "(RVC) Ver Jehedías."
+      ]
+    },
+    "YEJÍAS": {
+      "word": "YEJÍAS",
+      "definitions": [
+        "(RVC) Ver Jehías."
+      ]
+    },
+    "YEJIEL": {
+      "word": "YEJIEL",
+      "definitions": [
+        "(RVC) Ver Jehiel.\n\nVer Jeiel (6)."
+      ]
+    },
+    "YEJUBÁ": {
+      "word": "YEJUBÁ",
+      "definitions": [
+        "(RVC) Ver Jehúba."
+      ]
+    },
+    "YEMIMÁ": {
+      "word": "YEMIMÁ",
+      "definitions": [
+        "(RVC) Ver Jemima."
+      ]
+    },
+    "YERA": {
+      "word": "YERA",
+      "definitions": [
+        "(RVC) Ver Jera."
+      ]
+    },
+    "YERAJ": {
+      "word": "YERAJ",
+      "definitions": [
+        "(NVI, PDT) Ver Jera."
+      ]
+    },
+    "YERAMEL": {
+      "word": "YERAMEL",
+      "definitions": [
+        "(RVC) Ver Jerameel."
+      ]
+    },
+    "YEREBAY": {
+      "word": "YEREBAY",
+      "definitions": [
+        "(RVC) Ver Jerebai."
+      ]
+    },
+    "YEREMAY": {
+      "word": "YEREMAY",
+      "definitions": [
+        "(RVC) Ver Jeremai."
+      ]
+    },
+    "YERUBAAL": {
+      "word": "YERUBAAL",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jerobaal."
+      ]
+    },
+    "YESÉ": {
+      "word": "YESÉ",
+      "definitions": [
+        "(RVC) Ver Isaí."
+      ]
+    },
+    "YESO": {
+      "word": "YESO",
+      "definitions": [
+        "(NTV) Ver Cal."
+      ]
+    },
+    "YESOJAÍAS": {
+      "word": "YESOJAÍAS",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jesohaía."
+      ]
+    },
+    "YESOJAR": {
+      "word": "YESOJAR",
+      "definitions": [
+        "(RVC) Ver Jezoar."
+      ]
+    },
+    "YÉZER": {
+      "word": "YÉZER",
+      "definitions": [
+        "(RVC) Ver Jezer."
+      ]
+    },
+    "YEZOJAR": {
+      "word": "YEZOJAR",
+      "definitions": [
+        "(NVI, PDT) Ver Jezoar."
+      ]
+    },
+    "YHWH, YHVH": {
+      "word": "YHWH, YHVH",
+      "definitions": [
+        "Conocido mediante el término técnico Tetragrama (gr., significa “cuatro letras”), estas son las cuatro consonantes que conforman el nombre divino (Éxo 3:15; aparece más de 6000 veces en el AT). El idioma hebreo escrito no incluía las vocales; solo se empleaban las consonantes. Por lo tanto, los lectores proporcionaban las vocales a medida que leían (esto es cierto aun en el día de hoy en los periódicos hebreos). La reverencia hacia el nombre divino conducía a la práctica de evitar su uso para impedir que la persona quebrantara mandamientos tales como Éxo 20:7 y Lev 24:16. En una época se pensaba que el nombre divino era demasiado santo para pronunciarlo. Por lo tanto, surgió la práctica de emplear la palabra Adonai: “Señor”. Muchas traducciones de la Biblia continuaron con esta práctica. En algunas traducciones españolas se reconoce YHWH donde la palabra SEÑOR aparece con letras mayúsculas o versalitas.\n\nLa pronunciación real de YHWH se ha perdido en el transcurso de los siglos. En la Edad Media, los eruditos judíos desarrollaron un sistema de símbolos que se colocaban debajo y a los costados de las consonantes para indicar las vocales. YHWH aparecía con las vocales de “Adonai” como un recurso para recordarles que al leer el texto dijeran “Adonai”. Una forma latinizada de esta expresión se pronuncia “Jehová”, pero de ninguna manera es una palabra real. En base a un estudio de la estructura del lenguaje hebreo, la mayoría de los eruditos de la actualidad creen que YHWH probablemente se pronuncie Yahvéh. Ver Dios; Jehová; Dios, Nombres de; Yo Soy; Señor.\n\nMark Fountain"
+      ]
+    },
+    "YIDLAF": {
+      "word": "YIDLAF",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jidlaf."
+      ]
+    },
+    "YIFTÁ": {
+      "word": "YIFTÁ",
+      "definitions": [
+        "(RVC) Ver Jifta."
+      ]
+    },
+    "YO SOY": {
+      "word": "YO SOY",
+      "definitions": [
+        "Forma abreviada de la respuesta de Dios a la solicitud de Moisés sobre el nombre del Dios de los patriarcas (Éxo 3:13-14). El nombre completo se puede traducir “Yo soy el que soy”, “Yo seré el que seré” e incluso “Hago ser lo que es”. La respuesta de Dios no es un “nombre” que lo convierte en un objeto definido y limitado sino una afirmación de que Dios siempre es sujeto, libre para ser y actuar como Él desea. La traducción griega más antigua: “Yo soy el que es” o “Yo soy (el) Ser”, ha sido especialmente significativa en el desarrollo de la teología.\n\nLa respuesta de Jesús, “Yo soy”, en varios pasajes del NT sugiere más que la simple identificación de “Yo soy él”. El “Yo soy” en Mar 6:50 significa, “Yo soy Jesús, no un fantasma”, pero insinúa el divino “Yo soy”, el único que “anda sobre las olas del mar” (Job 9:8; Mar 6:48-49) y que apacigua las olas (Sal 107:28-29; comp. Mar 4:39). Jua 8:24 reconoce que Jesús es el “Yo soy”, un asunto de vida y muerte eterna: “Si no creéis que yo soy, en vuestros pecados moriréis”. Los judíos no entendieron porque pensaron que era una cuestión de identidad (“¿Tú quién eres?” Jua 8:25). Resulta evidente que comprendieron la declaración de Jesús “Antes que Abraham fuese, yo soy” (Jua 8:58), como declaración divina porque recogieron piedras para lanzarle. El “Yo soy” de Jua 18:5 también sugiere algo más que “Yo soy el hombre que buscan”. Más bien, Jesús es el “Yo soy” cuya presencia imponente hizo retroceder a los guardias y asumir una postura reverente. Este Jesús no era objeto de traición sino el que obtuvo la liberación de sus discípulos (Jua 18:8). Aunque difieran en el formato de las declaraciones de “Yo soy”, las referencias a aquel “que es y que era y que ha de venir” (Apo 1:4; Apo 1:8; Apo 4:8; comp. Apo 11:17; Apo 16:5) se asemejan en el concepto. En un contexto intenso de grandes penurias que llevaban a cuestionar la soberanía de Dios, el escritor de Apocalipsis consolidó la fe de Israel en el “Yo soy”, que es el sujeto de la historia y no su víctima. Ver YHWH, YHVH.\n\nChris Church"
+      ]
+    },
+    "YOADÁ": {
+      "word": "YOADÁ",
+      "definitions": [
+        "(RVC) Ver Joada."
+      ]
+    },
+    "YOADÁN": {
+      "word": "YOADÁN",
+      "definitions": [
+        "(RVC) Ver Joadán."
+      ]
+    },
+    "YOAJ": {
+      "word": "YOAJ",
+      "definitions": [
+        "(RVC) Ver Joa."
+      ]
+    },
+    "YOAJAZ": {
+      "word": "YOAJAZ",
+      "definitions": [
+        "(NTV) Ver Joacaz (4)."
+      ]
+    },
+    "YOCTEL": {
+      "word": "YOCTEL",
+      "definitions": [
+        "(RVC) Ver Jocteel."
+      ]
+    },
+    "YOD": {
+      "word": "YOD",
+      "definitions": [
+        "Décima letra del alfabeto hebreo que se utiliza como título del Sal 119:73-80, en el que todos los versículos comienzan con esta letra."
+      ]
+    },
+    "YOGBEA": {
+      "word": "YOGBEA",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jogbeha."
+      ]
+    },
+    "YOGLÍ": {
+      "word": "YOGLÍ",
+      "definitions": [
+        "(RVC) Ver Jogli."
+      ]
+    },
+    "YOJÁ": {
+      "word": "YOJÁ",
+      "definitions": [
+        "(NVI, PDT) Ver Joha."
+      ]
+    },
+    "YOJANÁN": {
+      "word": "YOJANÁN",
+      "definitions": [
+        "(NVI) Ver Joana."
+      ]
+    },
+    "YOSEB BASÉBET": {
+      "word": "YOSEB BASÉBET",
+      "definitions": [
+        "(RVC) Ver Joseb-basebet."
+      ]
+    },
+    "YOSEBA": {
+      "word": "YOSEBA",
+      "definitions": [
+        "(RVC) Ver Josabá."
+      ]
+    },
+    "YOTÁN": {
+      "word": "YOTÁN",
+      "definitions": [
+        "(RVC) Ver Jotam."
+      ]
+    },
+    "YOZABAD": {
+      "word": "YOZABAD",
+      "definitions": [
+        "(RVC) Ver Jozabad."
+      ]
+    },
+    "YUGADA": {
+      "word": "YUGADA",
+      "definitions": [
+        "Traducción del hebreo tsemed, literalmente una “yunta” de bueyes. Como medida de superficie se refiere a la tierra que una yunta puede arar en un día (1Sa 14:14; Isa 5:10)."
+      ]
+    },
+    "YUSAB JÉSED": {
+      "word": "YUSAB JÉSED",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Jusab-hesed."
+      ]
+    },
+    "YUTÁ": {
+      "word": "YUTÁ",
+      "definitions": [
+        "(NVI, PDT, RVC) Ver Juta."
       ]
     }
   }
