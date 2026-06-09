@@ -1,11 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 
-const cache = {};
-
-function normalize(text = '') {
+function normalize(text) {
 	return text
-		.toString()
+		?.toString()
 		.toLowerCase()
 		.normalize('NFD')
 		.replace(/[\u0300-\u036f]/g, '')
@@ -13,10 +11,10 @@ function normalize(text = '') {
 		.trim();
 }
 
+const cache = {};
+
 function loadFile(letter) {
-	if (cache[letter]) {
-		return cache[letter];
-	}
+	if (cache[letter]) return cache[letter];
 
 	const filePath = path.join(process.cwd(), 'data', `${letter}.json`);
 
@@ -56,7 +54,6 @@ function loadAllData() {
 		'u',
 		'v',
 		'w',
-		'x',
 		'y',
 		'z'
 	];
@@ -87,7 +84,7 @@ function searchAll(query) {
 			if (normalize(key).includes(query) || normalize(word).includes(query)) {
 				results.push({
 					word,
-					definitions: value.definitions || []
+					...value
 				});
 			}
 		}
@@ -100,7 +97,7 @@ export default function handler(req, res) {
 	try {
 		const { word, letter, search } = req.query;
 
-		// BUSQUEDA
+		// SEARCH
 		if (search) {
 			const results = searchAll(normalize(search));
 
@@ -115,7 +112,7 @@ export default function handler(req, res) {
 			const allData = loadAllData();
 
 			return res.status(200).json({
-				totalLetters: 26,
+				totalLetters: Object.keys(allData).length,
 				data: allData
 			});
 		}
@@ -136,18 +133,22 @@ export default function handler(req, res) {
 		// PALABRA
 		if (word) {
 			const target = normalize(word);
+
 			const allData = loadAllData();
 
 			for (const letterData of Object.values(allData)) {
 				const words = letterData.data || {};
 
-				for (const [key, value] of Object.entries(words)) {
-					if (
-						normalize(key) === target ||
-						normalize(value.word || '') === target
-					) {
-						return res.status(200).json(value);
-					}
+				const foundKey = Object.keys(words).find(key => {
+					const item = words[key];
+
+					return (
+						normalize(key) === target || normalize(item.word || '') === target
+					);
+				});
+
+				if (foundKey) {
+					return res.status(200).json(words[foundKey]);
 				}
 			}
 
@@ -159,11 +160,11 @@ export default function handler(req, res) {
 		return res.status(400).json({
 			error: 'Solicitud inválida'
 		});
-	} catch (error) {
-		console.error(error);
+	} catch (err) {
+		console.error(err);
 
 		return res.status(500).json({
-			error: 'Error interno del servidor'
+			error: 'Error interno'
 		});
 	}
 }
